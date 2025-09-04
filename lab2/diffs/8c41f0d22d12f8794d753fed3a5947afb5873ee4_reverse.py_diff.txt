@@ -1,0 +1,10 @@
+@@ -7,4 +7,6 @@ class Reverse:
+         if result:
+             return {"lc": self.lc, "IsPlaintext?": True, "Plaintext": message, "Cipher": "Reverse", "Extra Information": None}
+         else:
+-            return {"lc": self.lc, "IsPlaintext?": False, "Plaintext": None, "Cipher": "Reverse", "Extra Information": None}
+\ No newline at end of file
++            return {"lc": self.lc, "IsPlaintext?": False, "Plaintext": None, "Cipher": "Reverse", "Extra Information": None}
++    def getName(self):
++        return "Reverse"
+\ No newline at end of file

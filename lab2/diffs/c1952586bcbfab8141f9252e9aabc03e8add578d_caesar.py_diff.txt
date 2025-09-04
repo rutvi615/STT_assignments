@@ -1,0 +1,7 @@
+@@ -109,4 +109,4 @@ class Caesar(ciphey.iface.Cracker[str]):
+         self.group = list(self._params()["group"])
+         self.expected = config.get_resource(self._params()["expected"])
+         self.cache = config.cache
+-        self.p_value = self._params()["p_value"]
+\ No newline at end of file
++        self.p_value = self._params()["p_value"]

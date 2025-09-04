@@ -1,0 +1,7 @@
+@@ -337,4 +337,4 @@ class AuSearch(Searcher):
+                 desc="Sets the maximum depth before we give up ordering items.",
+                 default="2",
+             ),
+-        }
++        }
+\ No newline at end of file

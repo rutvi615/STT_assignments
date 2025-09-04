@@ -1,0 +1,7 @@
+@@ -1,5 +0,0 @@
+-def eggs(someParameter):
+-  someParameter.append('Hello')
+-spam = [1, 2, 3]
+-eggs(spam)
+-print(spam)
+\ No newline at end of file

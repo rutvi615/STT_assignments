@@ -1,0 +1,4 @@
+@@ -0,0 +1,2 @@
++import tensorflow as tf
++mnist = tf.keras.datasets.mnist # 28x28 images of hand-written digits 0-9
+\ No newline at end of file

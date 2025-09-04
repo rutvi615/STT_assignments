@@ -1,0 +1,11 @@
+@@ -72,10 +72,6 @@ class MorseCode(ciphey.iface.Decoder[str, str]):
+         logger.debug(f"Morse code successful, returning {result}")
+         return result.strip().upper()
+ 
+-    @staticmethod
+-    def getName() -> str:
+-        return "morse"
+-
+     @staticmethod
+     def priority() -> float:
+         return 0.05

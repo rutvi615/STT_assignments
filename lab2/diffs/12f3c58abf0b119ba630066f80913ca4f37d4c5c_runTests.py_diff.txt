@@ -1,0 +1,6 @@
+@@ -1,4 +0,0 @@
+-import sys
+-sys.path.append("..")
+-from Tests import testchi_squared
+-testchi_squared.TestChi()
+\ No newline at end of file

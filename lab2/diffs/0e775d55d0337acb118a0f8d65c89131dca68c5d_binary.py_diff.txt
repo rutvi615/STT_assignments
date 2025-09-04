@@ -1,0 +1,6 @@
+@@ -0,0 +1,4 @@
++class Binary:
++    def __init__(self, lc):
++        self.lc = lc
++    
+\ No newline at end of file

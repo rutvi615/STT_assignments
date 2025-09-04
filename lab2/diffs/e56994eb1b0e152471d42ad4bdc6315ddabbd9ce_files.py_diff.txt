@@ -1,0 +1,25 @@
+@@ -16,7 +16,7 @@ class Json(ciphey.iface.ResourceLoader):
+     def whatResources(self) -> T:
+         return self._names
+ 
+-    @lru_cache
++    @lru_cache()
+     def getResource(self, name: str) -> T:
+         prefix, name = name.split("::", 1)
+         return {"wordlist": (lambda js: {js}), "dist": (lambda js: js)}[prefix](
+@@ -43,7 +43,7 @@ class Csv(Generic[T], ciphey.iface.ResourceLoader[T]):
+     def whatResources(self) -> Set[str]:
+         return self._names
+ 
+-    @lru_cache
++    @lru_cache()
+     def getResource(self, name: str) -> T:
+         prefix, name = name.split("::", 1)
+         return {
+@@ -62,4 +62,4 @@ class Csv(Generic[T], ciphey.iface.ResourceLoader[T]):
+     def __init__(self, config: ciphey.iface.Config):
+         super().__init__(config)
+         self._paths = self._params()["path"]
+-        self._names = set(range(1, len(self._paths)))
+\ No newline at end of file
++        self._names = set(range(1, len(self._paths)))

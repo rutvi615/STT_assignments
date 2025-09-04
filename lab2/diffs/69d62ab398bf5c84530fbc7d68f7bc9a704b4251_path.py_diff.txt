@@ -1,0 +1,15 @@
+@@ -72,6 +72,7 @@ def show(pth_file=None):
+ 
+ if __name__ == "__main__":
+     import argparse
++
+     EPILOG = "If no args are passed, the current contents are shown."
+     parser = argparse.ArgumentParser(epilog=EPILOG)
+     group = parser.add_mutually_exclusive_group()
+@@ -85,4 +86,4 @@ if __name__ == "__main__":
+     elif args.remove:
+         remove(args.remove, args.file)
+     else:
+-        show(args.file)
+\ No newline at end of file
++        show(args.file)

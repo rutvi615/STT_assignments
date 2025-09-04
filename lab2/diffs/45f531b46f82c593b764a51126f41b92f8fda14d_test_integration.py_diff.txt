@@ -1,0 +1,11 @@
+@@ -2,8 +2,10 @@ from Ciphey.ciphey.languageCheckerMod import LanguageChecker
+ 
+ import unittest
+ from loguru import logger
++
+ logger.remove()
+ 
++
+ class testIntegration(unittest.TestCase):
+     """
+     tests integration between chi squared and dictionary checker

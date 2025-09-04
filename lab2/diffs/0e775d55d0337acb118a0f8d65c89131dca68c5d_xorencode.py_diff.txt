@@ -1,0 +1,10 @@
+@@ -17,4 +17,6 @@ for x in ciphertext:
+     if x != " ":
+         val = ord(x)
+         print(val,end=" ")
+-        print("In binary: {0:b}".format(val))
+\ No newline at end of file
++        print("In binary: {0:b}".format(val))
++
++#( ͡° ͜ʖ ͡°)
+\ No newline at end of file

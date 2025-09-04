@@ -1,0 +1,10 @@
+@@ -21,4 +21,6 @@ for char in ciphertext:
+     else:
+         output += " "
+ 
+-print(output)
+\ No newline at end of file
++print(output)
++
++# ( ͡° ͜ʖ ͡°)
+\ No newline at end of file

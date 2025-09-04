@@ -1,0 +1,18 @@
+@@ -20,6 +20,7 @@ class Bases:
+             self.base32(text),
+             self.base16(text),
+             self.base64(text),
++            self.base85(text),
+         ]
+         for answer in bases:
+             try:
+@@ -49,6 +50,9 @@ class Bases:
+         except ValueError:
+             logger.trace("Failed to decode base")
+             result = None
++        except:
++            logger.trace("Failed to decode base")
++            result = None
+ 
+         if result is not None and self.lc.checkLanguage(result):
+             logger.debug(f"Bases successful, returning {result}")

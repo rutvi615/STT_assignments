@@ -1,0 +1,1 @@
+Binary files a/app/neuralNetworkMod/logs/aaaCats-vs-dog-cnn-64x2-1564226353/events.out.tfevents.1564226508.DESKTOP-KSVAT30.profile-empty and /dev/null differ

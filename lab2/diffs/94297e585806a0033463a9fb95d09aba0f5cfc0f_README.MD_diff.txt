@@ -1,0 +1,24 @@
+@@ -53,18 +53,16 @@ Not just encryptions, but hashes and encodings too.
+ * Sha256
+ 
+ # How to install
+-Just download the GitHub repo.
+-
+-# How to use
+-
+ ```
+-pip install -r requirements.txt
++pip install ciphey
+ ```
+ 
+-And then
++# How to use
++
++In Terminal:
+ 
+ ```
+-python3 main.py -t "Encrypted Text Here"
++ciphey
+ ```
+ 
+ # The internal data packet

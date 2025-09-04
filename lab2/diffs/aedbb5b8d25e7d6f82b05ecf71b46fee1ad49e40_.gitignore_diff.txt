@@ -1,0 +1,19 @@
+@@ -175,11 +175,10 @@ dmypy.json
+ pyvenv.cfg
+ pip-selfcheck.json
+ 
+-# End of https://www.gitignore.io/api/git,python,virtualenv
+-.vscode/
+-
+-.vim/coc-settings.json
+-
+-.idea/
+-
+-.vim/
++# End of https://www.gitignore.io/api/git,python,virtualenv
++.vscode/
++
++.vim/coc-settings.json
++
++# Build directory for core
++ciphey/Decryptor/core/

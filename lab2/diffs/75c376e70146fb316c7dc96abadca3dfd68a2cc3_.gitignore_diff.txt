@@ -1,0 +1,8 @@
+@@ -179,3 +179,7 @@ pip-selfcheck.json
+ .vscode/
+ 
+ .vim/coc-settings.json
++
++.idea/
++
++.vim/

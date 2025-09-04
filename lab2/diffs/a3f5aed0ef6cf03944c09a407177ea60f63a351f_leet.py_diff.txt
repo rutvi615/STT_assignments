@@ -1,0 +1,22 @@
+@@ -8,10 +8,6 @@ from ciphey.iface import registry, Translation, ParamSpec
+ 
+ @registry.register
+ class Leet(ciphey.iface.Decoder[str, str]):
+-    @staticmethod
+-    def getTarget() -> str:
+-        return "leet"
+-
+     def decode(self, text: str) -> Optional[str]:
+         for src, dst in self.translate.items():
+             text = text.replace(src, dst)
+@@ -37,4 +33,8 @@ class Leet(ciphey.iface.Decoder[str, str]):
+                 req=False,
+                 default="cipheydists::translate::leet",
+             )
+-        }
+\ No newline at end of file
++        }
++
++    @staticmethod
++    def getTarget() -> str:
++        return "leet"

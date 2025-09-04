@@ -1,0 +1,11 @@
+@@ -18,10 +18,6 @@ class Utf8(ciphey.iface.Decoder[bytes, str]):
+             logger.trace("utf-8 decode failed")
+             return None
+ 
+-    @staticmethod
+-    def getName() -> str:
+-        return "UTF-8"
+-
+     @staticmethod
+     def priority() -> float:
+         return 0.9

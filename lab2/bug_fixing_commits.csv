@@ -1,0 +1,1621 @@
+Hash,Message,Hashes of parents,Is a merge commit?,List of modified files
+c4cb77e2599d520a2a6925a1959403df1635af6b,added standard deviation and fixed a bunch of bugs,['a5f06fe043ffab91227a2d9b259eb982d281254f'],False,"['app/Tests/testchi_squared.py', 'app/languageChecker/chisquared.py', 'app/main.py', 'app/mathsHelper.py']"
+12f3c58abf0b119ba630066f80913ca4f37d4c5c,ok i fixed it,['064d9f1415e95022f11ca978448066120079269a'],False,"['.vscode/settings.json', 'app/Decryptor/friendsCode/mod26.py', 'app/Decryptor/friendsCode/xorencode.py', 'app/languageChecker/LanguageChecker.py', None, None, None, 'app/mathsHelper.py', 'app/neuralNetwork/neural.py', 'app/neuralNetwork/starter.py', None]"
+ae4f2c7beb00ec8b84ee4399bac53a7021f0002e,"wrote more tests, squashed some bugs, drank soda, ran out of gum, now onto apples""
+
+
+ [formerly 372cca9c91fc06d36ce3f8d6d2967ce6373b3cf0] [formerly c6982a4775479bf1bedcae56bdf11072e82bffb4] [formerly eb142481bce2e577a80a3bbfbd0f7e6a930cbf94]",['2cd805c0424f926a60b4c75602efc16dfe0993b6'],False,"['app/Decryptor/basicEncryption/caesar.py', 'app/Tests/testchi_squared.py', 'app/Tests/testdictionary_checker.py', 'app/Tests/testintegration_languagechecker.py', 'app/languageChecker/test', None, 'app/languageCheckerMod/English.txt', 'app/languageCheckerMod/LanguageChecker.py', 'app/languageCheckerMod/__init__.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'app/main.py', 'app/mathsHelper.py', 'app/neuralNetwork/NeuralNetworkModel', 'app/neuralNetwork/NeuralNetworkModel.model.REMOVED.git-id', 'app/neuralNetwork/ciphey_neural_network.ipynb', 'app/neuralNetwork/ciphey_neural_network.py', 'app/neuralNetwork/data_creation.ipynb', 'app/neuralNetwork/loading in your own data && conv net.ipynb', 'app/neuralNetwork/logs/events.out.tfevents.1564482204.STUDENT04', None, 'app/neuralNetwork/nn.py']"
+3e02f07520fea77ad7ad70cedf09788b2c49a64f,"wrote more tests, squashed some bugs, drank soda, ran out of gum, now onto apples""",['50e04cb9cbd73b89ab3392acdd2bb78745c097a9'],False,"['app/Decryptor/basicEncryption/caesar.py', 'app/Tests/testchi_squared.py', 'app/Tests/testdictionary_checker.py', 'app/Tests/testintegration_languagechecker.py', 'app/languageChecker/test', None, 'app/languageCheckerMod/English.txt', 'app/languageCheckerMod/LanguageChecker.py', 'app/languageCheckerMod/__init__.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'app/main.py', 'app/mathsHelper.py', 'app/neuralNetwork/NeuralNetworkModel', 'app/neuralNetwork/NeuralNetworkModel.model.REMOVED.git-id', 'app/neuralNetwork/ciphey_neural_network.ipynb', 'app/neuralNetwork/ciphey_neural_network.py', 'app/neuralNetwork/data_creation.ipynb', 'app/neuralNetwork/loading in your own data && conv net.ipynb', 'app/neuralNetwork/logs/events.out.tfevents.1564482204.STUDENT04', None, 'app/neuralNetwork/nn.py']"
+227f122b7e586b7966769c51955cdec4710347ff,"fixed serious bug with language checker
+
+
+ [formerly cf864baca5da346569bbc9f0fe02e9682e354c19] [formerly afef2d01003cf92d67d64f04ce221b9a7e46983b] [formerly fee1bd836095e926dd9bc5bca71a605cf8c7452e]",['75514401454fe670f7eeccdd741b1b0091d85271'],False,"['app/Decryptor/basicEncryption/CrackingCodesFiles.zip', 'app/Decryptor/basicEncryption/CrackingCodesFiles/SolutionsForPracticeProblems.html', 'app/Decryptor/basicEncryption/CrackingCodesFiles/addNumbers.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineKeyTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/al_sweigart_privkey.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/al_sweigart_pubkey.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/caesarCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/caesarHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/checkPw.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/cryptomath.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/detectEnglish.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/dictionary.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/frankenstein.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/freqAnalysis.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/hello.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/helloFunction.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/makePublicPrivateKeys.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/makeWordPatterns.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/passingReference.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/primeNum.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/publicKeyCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/pyperclip.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/rabinMiller.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/reverseCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/romeo_and_juliet.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubDictionaryHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/stringTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/the_time_machine.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionDecrypt.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionEncrypt.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionFileCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionFileHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereDictionaryHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/viginere.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/wordPatterns.py.REMOVED.git-id', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/freqAnalysis.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/testbasic_parent.py', 'app/languageCheckerMod/English.txt.REMOVED.git-id', 'app/languageCheckerMod/aEnglish.txt', 'app/languageCheckerMod/dictionaryChecker.py', 'app/mathsHelper.py']"
+326e932fa8e472d9a69c8d47a6f9694dcfab6fdd,fixed serious bug with language checker,['c129cf8c1273d17b43125a20375984f677550712'],False,"['app/Decryptor/basicEncryption/CrackingCodesFiles.zip', 'app/Decryptor/basicEncryption/CrackingCodesFiles/SolutionsForPracticeProblems.html', 'app/Decryptor/basicEncryption/CrackingCodesFiles/addNumbers.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/affineKeyTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/al_sweigart_privkey.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/al_sweigart_pubkey.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/caesarCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/caesarHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/checkPw.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/cryptomath.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/detectEnglish.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/dictionary.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/frankenstein.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/freqAnalysis.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/hello.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/helloFunction.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/makePublicPrivateKeys.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/makeWordPatterns.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/passingReference.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/primeNum.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/publicKeyCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/pyperclip.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/rabinMiller.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/reverseCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/romeo_and_juliet.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubDictionaryHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/simpleSubHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/stringTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/the_time_machine.txt', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionDecrypt.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionEncrypt.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionFileCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionFileHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/transpositionTest.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereCipher.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereDictionaryHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/vigenereHacker.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/viginere.py', 'app/Decryptor/basicEncryption/CrackingCodesFiles/wordPatterns.py.REMOVED.git-id', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/freqAnalysis.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/testbasic_parent.py', 'app/languageCheckerMod/English.txt.REMOVED.git-id', 'app/languageCheckerMod/aEnglish.txt', 'app/languageCheckerMod/dictionaryChecker.py', 'app/mathsHelper.py']"
+68947dfac8c3c9ca79ac330413e66b3ed5468a25,"fixed main
+
+
+ [formerly 992c7e6ad86c6708cc986fbbe6d449bbedde64be] [formerly 674e011acb8ddee099a28b49acb402f1784d8b47] [formerly 4516380473d3bf1ef05af1fb19ded96cc6c91a69]",['c4df5ca88ba5a0ae89fa64e503504ac8420b5738'],False,"['app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/Encoding/hello.c', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'app/Decryptor/basicEncryption/affine.py', 'app/Decryptor/basicEncryption/pigLatin.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/transposition.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/main.py', 'app/neuralNetworkMod/data_creation.ipynb']"
+8fef7c94d19e81049be73e0015ea1389192cc8ae,fixed main,['34ab22eed21fb9e856386ee5b3a120925488d9fd'],False,"['app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/Encoding/hello.c', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'app/Decryptor/basicEncryption/affine.py', 'app/Decryptor/basicEncryption/pigLatin.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/transposition.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/main.py', 'app/neuralNetworkMod/data_creation.ipynb']"
+bb38c03221958963653bca5d1fc53125aa93d429,"Updated requirements.txt
+
+Only have an LC bug now :)
+
+ [formerly 3a3825e5f248a9924c28da1dc7daf59187c1a8ef] [formerly ab5cef8dee7c0a1df0afb0faeb2157303ac3e70e] [formerly 029ac1a75146373d555229e3e3989e26bc7a2cca]",['eb08309bf2e95b3807f6894bb3a755cce74c6178'],False,"['.gitignore', None, 'app/main.py', None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/__main__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/basecommand.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/baseparser.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/cmdoptions.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/download.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/exceptions.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/index.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/locations.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/pep425tags.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/status_codes.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/wheel.cpython-36.pyc', None, 'env/lib/python3.6/site-packages/pip/_vendor/__pycache__/__init__.cpython-36.pyc', None, None, None, None, 'env/lib/python3.6/site-packages/pip/commands/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/check.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/completion.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/download.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/freeze.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/hash.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/help.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/install.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/list.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/search.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/show.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/uninstall.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/wheel.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/compat/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/compat/__pycache__/dictconfig.cpython-36.pyc', None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/models/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/models/__pycache__/index.cpython-36.pyc', None, 'env/lib/python3.6/site-packages/pip/operations/__init__.py', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/check.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/freeze.cpython-36.pyc', None, None, None, None, 'env/lib/python3.6/site-packages/pip/req/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_file.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_install.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_set.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_uninstall.cpython-36.pyc', None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/utils/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/appdirs.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/build.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/deprecation.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/encoding.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/filesystem.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/glibc.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/hashes.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/logging.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/outdated.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/packaging.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/setuptools_build.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/ui.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/bazaar.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/git.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/mercurial.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/subversion.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/__pycache__/py31compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/pyparsing.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/six.cpython-36.pyc', None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/_compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/archive_util.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/build_meta.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/config.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/dep_util.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/depends.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/dist.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/extension.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/glibc.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/glob.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/launch.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/lib2to3_ex.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/monkey.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/msvc.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/namespaces.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/package_index.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/pep425tags.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py27compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py31compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py33compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py36compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/sandbox.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/site-patch.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/ssl_support.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/unicode_utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/version.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/wheel.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/windows_support.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__init__.py', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/pyparsing.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/six.cpython-36.pyc', None, None, 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/__about__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/_compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/_structures.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/markers.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/requirements.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/specifiers.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/version.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/cli-32.exe', 'env/lib/python3.6/site-packages/setuptools/cli-64.exe', 'env/lib/python3.6/site-packages/setuptools/cli.exe', None, 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/alias.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_wininst.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_clib.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_ext.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_py.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/develop.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/dist_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/easy_install.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/egg_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_lib.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_scripts.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/py36compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/register.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/rotate.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/saveopts.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/sdist.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/setopt.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/test.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/upload.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/upload_docs.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/extern/__pycache__/__init__.cpython-36.pyc', None, None, 'env/lib/python3.6/site-packages/setuptools/gui-32.exe', 'env/lib/python3.6/site-packages/setuptools/gui-64.exe', 'env/lib/python3.6/site-packages/setuptools/gui.exe', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl', 'env/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl', 'env/share/python-wheels/certifi-2018.1.18-py2.py3-none-any.whl', 'env/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl', 'env/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl', 'env/share/python-wheels/distlib-0.2.6-py2.py3-none-any.whl', 'env/share/python-wheels/distro-1.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/html5lib-0.999999999-py2.py3-none-any.whl', 'env/share/python-wheels/idna-2.6-py2.py3-none-any.whl', 'env/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl', 'env/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl', 'env/share/python-wheels/packaging-17.1-py2.py3-none-any.whl', 'env/share/python-wheels/pip-9.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl', 'env/share/python-wheels/progress-1.2-py2.py3-none-any.whl', 'env/share/python-wheels/pyparsing-2.2.0-py2.py3-none-any.whl', 'env/share/python-wheels/requests-2.18.4-py2.py3-none-any.whl', 'env/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl', 'env/share/python-wheels/setuptools-39.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/six-1.11.0-py2.py3-none-any.whl', 'env/share/python-wheels/urllib3-1.22-py2.py3-none-any.whl', 'env/share/python-wheels/webencodings-0.5-py2.py3-none-any.whl', 'env/share/python-wheels/wheel-0.30.0-py2.py3-none-any.whl', 'requirements.txt']"
+1cd9ebbac346b738312814100bba7728b8370166,"Updated requirements.txt
+
+Only have an LC bug now :)",['3bce14d19fb293cafd23d7841bf3bc53149acc7d'],False,"['.gitignore', None, 'app/main.py', None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/__pycache__/easy_install.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/__main__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/basecommand.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/baseparser.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/cmdoptions.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/download.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/exceptions.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/index.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/locations.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/pep425tags.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/status_codes.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/__pycache__/wheel.cpython-36.pyc', None, 'env/lib/python3.6/site-packages/pip/_vendor/__pycache__/__init__.cpython-36.pyc', None, None, None, None, 'env/lib/python3.6/site-packages/pip/commands/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/check.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/completion.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/download.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/freeze.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/hash.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/help.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/install.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/list.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/search.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/show.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/uninstall.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/commands/__pycache__/wheel.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/compat/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/compat/__pycache__/dictconfig.cpython-36.pyc', None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/models/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/models/__pycache__/index.cpython-36.pyc', None, 'env/lib/python3.6/site-packages/pip/operations/__init__.py', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/check.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/operations/__pycache__/freeze.cpython-36.pyc', None, None, None, None, 'env/lib/python3.6/site-packages/pip/req/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_file.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_install.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_set.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/req/__pycache__/req_uninstall.cpython-36.pyc', None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/utils/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/appdirs.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/build.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/deprecation.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/encoding.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/filesystem.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/glibc.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/hashes.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/logging.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/outdated.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/packaging.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/setuptools_build.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/utils/__pycache__/ui.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/bazaar.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/git.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/mercurial.cpython-36.pyc', 'env/lib/python3.6/site-packages/pip/vcs/__pycache__/subversion.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/__pycache__/py31compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__init__.py', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/pyparsing.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/__pycache__/six.cpython-36.pyc', None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/_compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/archive_util.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/build_meta.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/config.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/dep_util.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/depends.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/dist.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/extension.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/glibc.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/glob.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/launch.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/lib2to3_ex.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/monkey.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/msvc.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/namespaces.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/package_index.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/pep425tags.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py27compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py31compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py33compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/py36compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/sandbox.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/site-patch.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/ssl_support.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/unicode_utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/version.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/wheel.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/__pycache__/windows_support.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__init__.py', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/pyparsing.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/__pycache__/six.cpython-36.pyc', None, None, 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/__about__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/_compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/_structures.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/markers.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/requirements.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/specifiers.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/utils.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/_vendor/packaging/__pycache__/version.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/cli-32.exe', 'env/lib/python3.6/site-packages/setuptools/cli-64.exe', 'env/lib/python3.6/site-packages/setuptools/cli.exe', None, 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/__init__.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/alias.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/bdist_wininst.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_clib.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_ext.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/build_py.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/develop.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/dist_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/easy_install.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/egg_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_lib.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/install_scripts.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/py36compat.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/register.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/rotate.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/saveopts.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/sdist.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/setopt.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/test.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/upload.cpython-36.pyc', 'env/lib/python3.6/site-packages/setuptools/command/__pycache__/upload_docs.cpython-36.pyc', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/lib/python3.6/site-packages/setuptools/extern/__pycache__/__init__.cpython-36.pyc', None, None, 'env/lib/python3.6/site-packages/setuptools/gui-32.exe', 'env/lib/python3.6/site-packages/setuptools/gui-64.exe', 'env/lib/python3.6/site-packages/setuptools/gui.exe', None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 'env/share/python-wheels/CacheControl-0.11.7-py2.py3-none-any.whl', 'env/share/python-wheels/appdirs-1.4.3-py2.py3-none-any.whl', 'env/share/python-wheels/certifi-2018.1.18-py2.py3-none-any.whl', 'env/share/python-wheels/chardet-3.0.4-py2.py3-none-any.whl', 'env/share/python-wheels/colorama-0.3.7-py2.py3-none-any.whl', 'env/share/python-wheels/distlib-0.2.6-py2.py3-none-any.whl', 'env/share/python-wheels/distro-1.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/html5lib-0.999999999-py2.py3-none-any.whl', 'env/share/python-wheels/idna-2.6-py2.py3-none-any.whl', 'env/share/python-wheels/ipaddress-0.0.0-py2.py3-none-any.whl', 'env/share/python-wheels/lockfile-0.12.2-py2.py3-none-any.whl', 'env/share/python-wheels/packaging-17.1-py2.py3-none-any.whl', 'env/share/python-wheels/pip-9.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/pkg_resources-0.0.0-py2.py3-none-any.whl', 'env/share/python-wheels/progress-1.2-py2.py3-none-any.whl', 'env/share/python-wheels/pyparsing-2.2.0-py2.py3-none-any.whl', 'env/share/python-wheels/requests-2.18.4-py2.py3-none-any.whl', 'env/share/python-wheels/retrying-1.3.3-py2.py3-none-any.whl', 'env/share/python-wheels/setuptools-39.0.1-py2.py3-none-any.whl', 'env/share/python-wheels/six-1.11.0-py2.py3-none-any.whl', 'env/share/python-wheels/urllib3-1.22-py2.py3-none-any.whl', 'env/share/python-wheels/webencodings-0.5-py2.py3-none-any.whl', 'env/share/python-wheels/wheel-0.30.0-py2.py3-none-any.whl', 'requirements.txt']"
+29e8473d3065b3f74083dea6258bf26ae50149cb,"Fixed Language Checker Issues
+
+Man.... I gotta really read up on file system imports in Python
+
+ [formerly 698c7b75d2e6ea43d01d0b239a37dfcfee51508b] [formerly d09d28a2467c0088e918ecf0d51f84711d36e033] [formerly 9f0960d1691fbc99f7fc9e6a74b8ae7267c64682]",['bb38c03221958963653bca5d1fc53125aa93d429'],False,"['README.MD', 'app/languageCheckerMod/dictionaryChecker.py', 'app/main.py', 'app/neuralNetworkMod/nn.py']"
+f323c86c547720c35d64a880a1166ee5ca92cc44,"Fixed Language Checker Issues
+
+Man.... I gotta really read up on file system imports in Python",['1cd9ebbac346b738312814100bba7728b8370166'],False,"['README.MD', 'app/languageCheckerMod/dictionaryChecker.py', 'app/main.py', 'app/neuralNetworkMod/nn.py']"
+4ae01e3a6f56b7412e6ea65b540c00021e583de3,"Fixed README
+
+USers can now see how to contribute
+
+ [formerly a0c6344925da7cf94a1c74d92bb3852f544d0772] [formerly e2b3ad5cf7d398325a6d47bc28fa0926492c0b4f] [formerly 05cfc1d6615a83e4e733a199668f9dd58d8c610b]",['4adc989627eb1676bbc33fcd40753962bc87b821'],False,['README.MD']
+a40d4921c2c5950229dacb246044e3f0ec4f74be,"Fixed README
+
+USers can now see how to contribute",['1d1a2b74e6a8f41da2b29c0043d506f1516aec75'],False,['README.MD']
+8ed179b7bbd9c08c75e6918851fc91b73cdfc7ad,"Fixed some Pytest stuff
+
+
+
+ [formerly cbde4d2761dd44581cc2ac8c94bbf9b28779b278] [formerly 0988acbba6d589ba7b96d91627e9c68148eea10a] [formerly 4badb5660dfe79d9b737566735b39db1af447232]",['06e0fd04bb6e0e6b24a8303fab1c588b1489547a'],False,"['.idea/.gitignore', '.idea/Ciphey.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/misc.xml', '.idea/modules.xml', '.idea/other.xml', '.idea/vcs.xml', 'MANIFEST.in', 'README.MD', 'app/Decryptor/Encoding/__init__.py', 'app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/__init__.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/caesar.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/test_Encoding.py', 'app/Tests/test_basic_parent.py', 'app/Tests/test_caesarcipher_basic.py', 'app/Tests/test_chi_squared.py', 'app/Tests/test_integration_languagechecker.py', 'app/Tests/test_neural_network.py', 'app/__main__.py', 'app/languageCheckerMod/LanguageChecker.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'license', 'logo.png', 'setup.py']"
+6009f35c1442c11bba654adefaa01328cb2b94fa,Fixed some Pytest stuff,['0ff379b47593c3c11efaa9abb1d545325ae90a82'],False,"['.idea/.gitignore', '.idea/Ciphey.iml', '.idea/inspectionProfiles/profiles_settings.xml', '.idea/misc.xml', '.idea/modules.xml', '.idea/other.xml', '.idea/vcs.xml', 'MANIFEST.in', 'README.MD', 'app/Decryptor/Encoding/__init__.py', 'app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/__init__.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/caesar.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/test_Encoding.py', 'app/Tests/test_basic_parent.py', 'app/Tests/test_caesarcipher_basic.py', 'app/Tests/test_chi_squared.py', 'app/Tests/test_integration_languagechecker.py', 'app/Tests/test_neural_network.py', 'app/__main__.py', 'app/languageCheckerMod/LanguageChecker.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'license', 'logo.png', 'setup.py']"
+94297e585806a0033463a9fb95d09aba0f5cfc0f,"All tests - FIXED
+
+!!! :)
+
+ [formerly e412517079931a4c39c60734a8fb6ba1577426f1] [formerly 281a515a6c0f2baa92dab31c70d00cd5c2b0c8dd] [formerly 510eb23e583c8d4d1aca1e10a1d0d43615f81b1e]",['d83d7c1721a4e8aecd1100fd5ba5204b6f2c0d44'],False,"['README.MD', 'app/Tests/test_caesarcipher_basic.py', 'app/Tests/test_integration_languagechecker.py', 'app/neuralNetworkMod/nn.py']"
+81e6a5c14253bd258fa1a51f80fa1e0ea28884d9,"All tests - FIXED
+
+!!! :)",['8e315388d4c25d8178b8dd171ae7b5bafa282f6b'],False,"['README.MD', 'app/Tests/test_caesarcipher_basic.py', 'app/Tests/test_integration_languagechecker.py', 'app/neuralNetworkMod/nn.py']"
+6291bd90e77722c95dc3ac3f4108ca4d439d7ebf,"broken
+
+
+
+ [formerly a7a0b99889cb1cdf6efd38f40a7c1b0b48611124] [formerly 8b0c4ba8b0e45fd6ad558006a11b4b3317849384] [formerly 936935e3bdcafd5408aee0bb0dc08b771fe6b480]",['94297e585806a0033463a9fb95d09aba0f5cfc0f'],False,"['app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/test_caesarcipher_basic.py', 'app/languageCheckerMod/LanguageChecker.py']"
+0dc5a5c839cba1e8cb58ad7da8b9148aa90ce0b4,broken,['81e6a5c14253bd258fa1a51f80fa1e0ea28884d9'],False,"['app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Tests/test_caesarcipher_basic.py', 'app/languageCheckerMod/LanguageChecker.py']"
+819f33e09428b34ced6dd0ae3dc237b6fd2c50bd,"Fixed testing & Ciphey now runs
+
+Added automatic Unit testing to Github actions too
+
+ [formerly 026bc0aad8bb8c40cb39ee59e0877f96310bf1b1] [formerly c38963ca714995d7d52be8e3a67f1ec440b40b58] [formerly 1cfa533b90e2b8fb3b846bf62aee64c4e3339838]",['0350b325a162a8b201309458e01da5b1904478ed'],False,"['.github/workflows/pythonapp.yml', None, None, None, None, None, None, None, 'app/Decryptor/Encoding/ascii.py', 'app/Decryptor/Encoding/base64.py', 'app/Decryptor/Encoding/binary.py', 'app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/Encoding/hexadecimal.py', 'app/Decryptor/Encoding/morsecode.py', 'app/Decryptor/Hash/hashBuster.py', 'app/Decryptor/Hash/hashParent.py', 'app/Decryptor/__init__.py', 'app/Decryptor/basicEncryption/__init__.py', 'app/Decryptor/basicEncryption/affine.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/caesar.py', 'app/Decryptor/basicEncryption/freqAnalysis.py', 'app/Decryptor/basicEncryption/pigLatin.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/transposition.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Decryptor/friendsCode/mod26.py', 'app/Decryptor/friendsCode/xorencode.py', 'app/__init__.py', 'app/__main__.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'app/mathsHelper.py', 'app/neuralNetworkMod/nn.py', 'app/neuralNetworkMod/test.py', 'app/test_basicparent.py', 'app/test_chi_squared.py', 'app/test_dictionary.py', 'app/test_encoding.py', 'app/test_integration.py', 'app/test_neuralNetwork.py', 'requirements.txt']"
+95e451e7a43a8c7a2f2aa42e4a9b7d25b13ab4f2,"Fixed testing & Ciphey now runs
+
+Added automatic Unit testing to Github actions too",['8f213225f8c5e37907069ee820609afdc86a6923'],False,"['.github/workflows/pythonapp.yml', None, None, None, None, None, None, None, 'app/Decryptor/Encoding/ascii.py', 'app/Decryptor/Encoding/base64.py', 'app/Decryptor/Encoding/binary.py', 'app/Decryptor/Encoding/encodingParent.py', 'app/Decryptor/Encoding/hexadecimal.py', 'app/Decryptor/Encoding/morsecode.py', 'app/Decryptor/Hash/hashBuster.py', 'app/Decryptor/Hash/hashParent.py', 'app/Decryptor/__init__.py', 'app/Decryptor/basicEncryption/__init__.py', 'app/Decryptor/basicEncryption/affine.py', 'app/Decryptor/basicEncryption/basic_parent.py', 'app/Decryptor/basicEncryption/caesar.py', 'app/Decryptor/basicEncryption/freqAnalysis.py', 'app/Decryptor/basicEncryption/pigLatin.py', 'app/Decryptor/basicEncryption/reverse.py', 'app/Decryptor/basicEncryption/transposition.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/Decryptor/friendsCode/mod26.py', 'app/Decryptor/friendsCode/xorencode.py', 'app/__init__.py', 'app/__main__.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py', 'app/mathsHelper.py', 'app/neuralNetworkMod/nn.py', 'app/neuralNetworkMod/test.py', 'app/test_basicparent.py', 'app/test_chi_squared.py', 'app/test_dictionary.py', 'app/test_encoding.py', 'app/test_integration.py', 'app/test_neuralNetwork.py', 'requirements.txt']"
+ede7eb23a3a90d180bfba089543abcce8788e74f,"Merge pull request #22 from brandonskerritt/fixingCiphey
+
+Fixing ciphey
+
+ [formerly c845b2cba87fe0e0679080fbda8b46d2d5efaea8] [formerly 6371b446e8313113588febd1bc1f861e430d4083] [formerly de1efb43f990772497bd6594b9996dce3bb158a7]","['f9dd62a6c047da25258050dce66fa4b21d0d2037', '819f33e09428b34ced6dd0ae3dc237b6fd2c50bd']",True,[]
+8088ff36f261fa280561be91f693d0fb7c22cdd1,"Merge pull request #22 from brandonskerritt/fixingCiphey
+
+Fixing ciphey","['58c0b07a01333394abf8a536eb0f5b5ff4cb9af4', '95e451e7a43a8c7a2f2aa42e4a9b7d25b13ab4f2']",True,[]
+e165bc0a8e13d9d7be0834f248d2633d008834c5,"Fixing GitHub Actions
+
+
+
+ [formerly 287f323b1c578ccef7e2ad35738770f269e1d800] [formerly 3de7caab00e4d83d034bb935f0497cca64c92af3] [formerly 528af376e41af60f0b668a1baae08c6fb05cbeae]",['29e8473d3065b3f74083dea6258bf26ae50149cb'],False,['.github/workflows/pythonapp.yml']
+0b271cf231f6c9a9adf10f445e3a710956a9a4b0,Fixing GitHub Actions,['f323c86c547720c35d64a880a1166ee5ca92cc44'],False,['.github/workflows/pythonapp.yml']
+bce92e9e48a40bbd33a02b8aeed4c8e3d0016d50,"Github action fixes
+
+
+
+ [formerly aebb29b2e2b8acfeb886c630a17fa98ae63c479e] [formerly 641a8245d25cfc8855bcdd52b455bbb6724c366c] [formerly 3ec9a6eaff0bd7502233c1ad7704ed5b6843dda5]",['d684326b8b955a33712477bde671fe7eccde8155'],False,['requirements.txt']
+298d009636050f84ec8d6bcfb364e703ed87c639,Github action fixes,['b426a9758bad1e0d205d8e0e9c034b3650e0f101'],False,['requirements.txt']
+84230dcac4355d2480b8dcd3fd13561403bbb63e,"fixed neural network bug
+
+
+
+ [formerly 7b0c6a79977ad85157de9fd5b7123a3ca8b2826b] [formerly f801fed6a687820470f5a7c02217ad52542c72e5] [formerly d67ee922d307f7c0dbae5c76eff2adb07b7f29a5]",['f3b48f44593a47f049e0f42580fabef6427b82c3'],False,['app/neuralNetworkMod/nn.py']
+f821545de16eb56144e1316a53e896d499fa6ecb,fixed neural network bug,['f5f491cb05fd6ab93a4455b9427c4f9cf9066372'],False,['app/neuralNetworkMod/nn.py']
+7248679cfbfd14f0cd312d091575b8be6bbc7816,"Fixed testing.... again
+
+
+
+ [formerly 8a30885e3a82c516f3df3b750355bf8b6161176c] [formerly 997bb5af494630618beab8b2cba531200d243fbf] [formerly b02935d7cb269df685c42e6899ec7292ef3e136e]",['84230dcac4355d2480b8dcd3fd13561403bbb63e'],False,"['app/Decryptor/basicEncryption/reverse.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py']"
+c0ee4697969a4ecf9ff77174d78d4ab84575a15e,Fixed testing.... again,['f821545de16eb56144e1316a53e896d499fa6ecb'],False,"['app/Decryptor/basicEncryption/reverse.py', 'app/languageCheckerMod/chisquared.py', 'app/languageCheckerMod/dictionaryChecker.py']"
+4aa2638346e38ddd8e6d52eb556a490fc57c991a,"Fixed Readme and applied Black
+
+
+
+ [formerly ad2dfe94959fec47eb5ecebc3806032d643de016] [formerly 3b8212b7304b699eba15f59be8bf5e37595521d9] [formerly 2783ef959f2a99aac2e1ab323496d4978498f085]",['51b80b3a424c0c22936fa79845c12ea7d979a5d4'],False,"['README.MD', 'app/Decryptor/Hash/hashParent.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/__main__.py', 'app/languageCheckerMod/LanguageChecker.py', 'app/test_basicparent.py', 'setup.py']"
+1636da8d1568064ac048c1139c293f07103542d2,Fixed Readme and applied Black,['6d943a498c6b569f7881e6f537db5fc45aabdb72'],False,"['README.MD', 'app/Decryptor/Hash/hashParent.py', 'app/Decryptor/basicEncryption/viginere.py', 'app/__main__.py', 'app/languageCheckerMod/LanguageChecker.py', 'app/test_basicparent.py', 'setup.py']"
+b28ba5ed769b9dde909f9ba91daf063a7ef81688,"The PIP issue _might_ be fixed
+
+It works on my tests locally
+
+ [formerly d3bd9659a26af3867227145d0079ccf3ebdc8798] [formerly 3a60bdbe4bc5cda036b83c9cfb4fb772467ba33a] [formerly 3be720baa94de601244918ec420ccbfddb2dd6c2]",['ab354c1eaae6898a0799787c006ac80d037860ed'],False,"['__init__.py', 'app/__main__.py', 'requirements.txt']"
+be9cb8c25c3ea738b15e317ee58da70468e54a1d,"The PIP issue _might_ be fixed
+
+It works on my tests locally",['69a064142f666eac28b02fec5f25423fb2980102'],False,"['__init__.py', 'app/__main__.py', 'requirements.txt']"
+9ea63921e90e7166699cb3a0307b0ad6b8a30b4a,"Fixing PyPi
+
+
+
+ [formerly 21038eda3a210ac8639dbad17665ecc919bededa] [formerly d8b7ae2fe26bb6efeac45f98595f90bcc44261fd] [formerly 9d9913a58c0c5e594a72d16580861516226e43e9]",['b28ba5ed769b9dde909f9ba91daf063a7ef81688'],False,"['oldSETUP.PY', 'setup.py']"
+2a806650519cc92c1816a52e64a35ade71c8fc8a,Fixing PyPi,['be9cb8c25c3ea738b15e317ee58da70468e54a1d'],False,"['oldSETUP.PY', 'setup.py']"
+70610f2abcdda3916af0e3b8afb1511d8f20d9b4,"Fixing PyPi some more
+
+
+
+ [formerly 792893c9bb5ab7e0f73229eb8a85b023fa27beb5] [formerly a9d4892fe95a9527cac6e1259dc246aabeb6a821] [formerly 7d904df0e244d7b08608088c5fb805d52bb6bd63]",['9ea63921e90e7166699cb3a0307b0ad6b8a30b4a'],False,"['MANIFEST.in', 'app/Decryptor/Hash/__init__.py', 'app/__main__.py', None, 'pycharmSETUP.py', 'setup.py']"
+78355e8225e9c70cdd350de864100f977d945320,Fixing PyPi some more,['2a806650519cc92c1816a52e64a35ade71c8fc8a'],False,"['MANIFEST.in', 'app/Decryptor/Hash/__init__.py', 'app/__main__.py', None, 'pycharmSETUP.py', 'setup.py']"
+524a7e5effbb04c904aa07a4ab419149bd325733,"Merge pull request #29 from brandonskerritt/fixingPath
+
+Fixing path
+
+ [formerly 50721477be0f78cd466b5e5ea7d1b27ff45e3365] [formerly b5d0a1f8bcae0adea965af2fae2fbcda63d9569a] [formerly 4f3e7bf4ed82a87724b009c41fca546c3621f1bf]","['e71ba935df2b4709d8e26877ef252a40d213b8d0', 'f084d15c8967867333e2560e13979c044dfb35a4']",True,[]
+6bd5a7670d96d9883e50927bc0e3e534d3bcb3dd,"Merge pull request #29 from brandonskerritt/fixingPath
+
+Fixing path","['2ff52de27f84e82ddf5692d1c8d355fc79918f64', 'fc5b7b64047c33e196c95a96bace9e9b20c90a03']",True,[]
+2bc2ea701146f83866d0bdcade14f45402635b1e,"Fixing probability table issues
+
+
+
+ [formerly 761c6379fe4e46d9604e6564a618738e967345e6] [formerly b37587534bda3454f5ed18adc96922e98b19a885] [formerly a27b70a9cdef64951d5008239456f3a49788a5e4]",['42846ca73ac5c94680f7a1511860317c2001e38b'],False,"['README.MD', 'ciphey/Decryptor/Encoding/base.py', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/test.py', 'ciphey/__main__.py', 'ciphey/mathsHelper.py', 'setup.py']"
+1b91321c9ef077180295e1ac64b2936372451fd6,Fixing probability table issues,['daac3ce02925591832539fedf2989c4663360ac1'],False,"['README.MD', 'ciphey/Decryptor/Encoding/base.py', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/test.py', 'ciphey/__main__.py', 'ciphey/mathsHelper.py', 'setup.py']"
+96f865ada41e1b17b6714713cfaee2a07221415c,"Trying to fix sort dict
+
+
+
+ [formerly 4286efce473ac6cf16530eb7067996e4afc14e04] [formerly ae3ab37ba7b59e4745c0b4f448e3207551616059] [formerly 46dd3d68c9f1a42c88b97ad5d7ebf43a9bc70219]",['2bc2ea701146f83866d0bdcade14f45402635b1e'],False,"['ciphey/__main__.py', 'ciphey/mathsHelper.py']"
+7f3bf7efbe5c73eb39be40ffc3b02f4fd23ae387,Trying to fix sort dict,['1b91321c9ef077180295e1ac64b2936372451fd6'],False,"['ciphey/__main__.py', 'ciphey/mathsHelper.py']"
+7c719bc1e9587ca85cc7a22fdfa3ca88834edb6e,"Possible fix
+
+
+
+ [formerly 3122d32d74575269bdcefb772df687d06dae0d31] [formerly 3f3acda582addb8388921587dec2301b17b3dfdd] [formerly d0a2f6e3cfb8b63ef64788a8600c305e58352703]",['f6762683ef24309174748ebe752c39acbcde4d89'],False,"['ciphey/mathsHelper.py', 'test.py']"
+0cd252f6beb2341c8172ef68d51d1e8fedda9e95,Possible fix,['6cefcfb44660fe233eb7baad03b629485fb5cf72'],False,"['ciphey/mathsHelper.py', 'test.py']"
+833dacb759d76777ff13f1a1361133d66f3a6e4e,"Think I fixed the readme.md too
+
+
+
+ [formerly 94c777254d545d67b4a9c08578db1a37270811bb] [formerly 28222be1859b5a7b3f1a3d5bf50d5a4df4300c06] [formerly 18e7eda7f1cc28fbbfafd5fe39b6ee2c3e566119]",['7c719bc1e9587ca85cc7a22fdfa3ca88834edb6e'],False,"['README.MD', None, 'test.py']"
+87766743896bf91319e96e203b4265c247ef2d77,Think I fixed the readme.md too,['0cd252f6beb2341c8172ef68d51d1e8fedda9e95'],False,"['README.MD', None, 'test.py']"
+f95d120eac5f42c691ddfb613a5a13c21addb2fd,"Think i fixed dict sorting in test.py
+
+
+
+ [formerly 6da0047157bdbca6efea132b9d1544909461cd8a] [formerly c7ea2fffe695bfb506a4568f46876c0a4bd396e9] [formerly 8391286b2c8149b4589974aaf14019e8cc7db0ff]",['833dacb759d76777ff13f1a1361133d66f3a6e4e'],False,['test.py']
+d3e1da32638f375de8d4b4424e245794168397f6,Think i fixed dict sorting in test.py,['87766743896bf91319e96e203b4265c247ef2d77'],False,['test.py']
+c8fbe5e19dc41e2b7c98177fa1eebc6f45c9f21d,"Bug fixes
+
+
+
+ [formerly 3629f28261cd78d011207af7424221f6fecd0d52] [formerly 429800a7f7bcf963502852522ff64bfc0f0971ab] [formerly 5838b6465e6c74849d6bd345bf1bb5b488d3eb41]",['f95d120eac5f42c691ddfb613a5a13c21addb2fd'],False,"['README.MD', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/mathsHelper.py', 'ciphey/test_basicparent.py', 'docs/neuralnetwork.md', 'test.py']"
+80665c4f57ffdf7045fa3e94067842ee6d559760,Bug fixes,['d3e1da32638f375de8d4b4424e245794168397f6'],False,"['README.MD', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/mathsHelper.py', 'ciphey/test_basicparent.py', 'docs/neuralnetwork.md', 'test.py']"
+348811001b2fcfb59dff956b12570be0c57bdecd,"Fixed bases
+
+
+
+ [formerly 41cec121c38faef57312b78d9bbe1f28c1fb2f04] [formerly b521c73cb5155e95ef8ac7d2f295754f2a81ec90] [formerly 0a16c89cbfdfaa81ee54bd698be822659454f72e]",['c8fbe5e19dc41e2b7c98177fa1eebc6f45c9f21d'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/encodingParent.py']"
+ce7350c2c18cdaccda51e6ab799f541f99aaee17,Fixed bases,['80665c4f57ffdf7045fa3e94067842ee6d559760'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/encodingParent.py']"
+b61d2b4a0b99dc3966ac9fc0b54168b35463b24e,"Started fixing transposition
+
+
+
+ [formerly 16569c91424ae66f5b22844b2e730ff362455ac2] [formerly d3428a695d210933b864576290f85bdb54c85edf] [formerly 5cbf39904b970495042a15752b3ed01120913436]",['ddb95b4e9828f163a7fd61ab15fde0319cc1cdf2'],False,['ciphey/Decryptor/basicEncryption/newTransposition.py']
+09e2ad7e2c7380539b885639ba37896aea216abb,Started fixing transposition,['0991f169134c406be21ac820b085ef8fc0f65ee0'],False,['ciphey/Decryptor/basicEncryption/newTransposition.py']
+2d30418520ec9f6073dd86734ed7422fffe656e0,"Fixing transposition
+
+
+
+ [formerly d705e0cf545c582215a7d1a5b27a200bd96f8f62] [formerly 1121e2195620585c247b59671cb7f9ee094b3505] [formerly 50e2f8aa03298ff3c6d92551ee9e64aed993e645]",['b61d2b4a0b99dc3966ac9fc0b54168b35463b24e'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+90a0ee311493d25f9e56ae381ae2c01153610817,Fixing transposition,['09e2ad7e2c7380539b885639ba37896aea216abb'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+3fb525022bc34114a778fbf1a35b74045e1bdf80,"LC doesn't operate properly
+
+It sees the text, which is clearly english, but it returns false. Investigate issues in LC pls
+
+ [formerly a2fec08d33b25ce8bfbad1d63f4ea1972779a12f] [formerly 3a3acf5223632ded636e43764457a2d5a790582c] [formerly 98910e043eff80d18e550afeb17b1697410cd748]",['46377440e6e22557bcc6c3409906bba3a6c72ccd'],False,"['ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py', 'ciphey/test_integration.py', 'test/transoutput.txt']"
+39963b83ad48c9258e7cd336641b1b3b0f030681,"LC doesn't operate properly
+
+It sees the text, which is clearly english, but it returns false. Investigate issues in LC pls",['8a62f9b6ea7cc27c427bdcd017d910de8a5696e9'],False,"['ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py', 'ciphey/test_integration.py', 'test/transoutput.txt']"
+c31f02634bf595bdc4b936767c549cfc6eeca3b8,"Chi squared is broken
+
+
+
+ [formerly cb625e59b4842adec943fcbc4ee8870e5a696064] [formerly 914a59fd6a20ad306c84b588fff5b74b53511401] [formerly 6da182172528057825a4bd510610f207a5747832]",['73059ded3f74ce5ea69e6deaec522ee7b187be31'],False,"['ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py']"
+d5619a744a30eb60fa3ccb5c8a57d76ab67c7b54,Chi squared is broken,['b60ea6cd203b40c03220f7ef8d971870aa043974'],False,"['ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py']"
+807bc56abb46179e74b0ef50dd2936e5df4b2a11,"Fixing LC
+
+
+
+ [formerly a7aea7f0f5c4c6102b9fbda189533820365e661c] [formerly 6d6ab9e17dca1d8eebc03547761c2a0f669f79d0] [formerly 3e646be65d0d1103c955400b29b2d10804a2901f]",['d662c5dd81ae5aec7020704744d373bc1c0ab145'],False,"['ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py', 'ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/test_chi_squared.py', 'ciphey/test_integration.py']"
+88fb90187b1ed73363de3fc9e832b237312f949b,Fixing LC,['d38baf8a783308c9713aba015c025c1727925b33'],False,"['ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py', 'ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/test_chi_squared.py', 'ciphey/test_integration.py']"
+be9c049aeb38f6db5ecb7fb8c0eb525a8ebce88e,"I messed up trying to learn Vim, fixed it though
+
+
+
+ [formerly dfa0c1bb3688eda87c852cf016e987cd5ab6dfa4] [formerly 69766625c3dcade4ea30aad3a20fd157e0776570] [formerly 94be6f57e0793bd2266e0d698234f036bb525c8b]",['63b8b0f69f4875bee01ca2235b9633e083788561'],False,"['ciphey/__main__.py', 'ciphey/mathsHelper.py']"
+c4323e7b6342f13d331f713b28899a5e8b8d5775,"I messed up trying to learn Vim, fixed it though",['191541bcee41a2a74746171f48485eaa4b11fb1f'],False,"['ciphey/__main__.py', 'ciphey/mathsHelper.py']"
+e4ac2ae4696bc68397f4ca55b1e83ad4e6fd707c,"Fixing indention problems
+
+
+
+ [formerly e18442004883948d7c17e6c75ed9493772c02320] [formerly f4653df7bf9f25fdddc188c354d118e979c26009] [formerly 77585986b130a9321bc27b271eebacb2520eefa4]",['bff96315222254272f12f2fccc78f8954db4917c'],False,"['ciphey/Decryptor/Encoding/binary.py', 'ciphey/__main__.py']"
+18c2ac6c89665ff040f2dee1d4c41f0bd11a095e,Fixing indention problems,['ab6a10c77ed42b222badbae0e0d2ee84df6f1776'],False,"['ciphey/Decryptor/Encoding/binary.py', 'ciphey/__main__.py']"
+0694e14c89b92daf805508b8c7d1afec2c12305e,"Fixed a bug in binary where Logger was misspellt as Logging
+
+
+
+ [formerly 4eb5e645f3cf06ee724a743319ad83bab83b7ee7] [formerly fe61d98eaf26f1c3730ca976d1dbc9fb3f967557] [formerly e6a1ea2ef7a9bcbd94b70ed437e70d4a9b292225]",['f4dfcc5a1d12ea09286021241a137194dd944d8e'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/binary.py']"
+b3ca61348adebb351039fc183665268839591a63,Fixed a bug in binary where Logger was misspellt as Logging,['5393ba7fd7f3125c0f246eaa2265c9517ffbb004'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/Decryptor/Encoding/binary.py']"
+2e7b626cddd0b5b3f435da8e1f6e5f824236e218,"Logging bug fixes
+
+
+
+ [formerly 3355e91cca6d8582cf5f559c0f1dc15e7be00788] [formerly cbe31ee1f03c51fe18f66c7ba06c81d63f66f121] [formerly d9a0eaa8672eb6658425322f9507aa8a16f7cb9b]",['0694e14c89b92daf805508b8c7d1afec2c12305e'],False,"['ciphey/Decryptor/Encoding/ascii.py', 'ciphey/Decryptor/Encoding/hexadecimal.py', 'ciphey/Decryptor/Encoding/morsecode.py', 'ciphey/mathsHelper.py']"
+bfcd92f0729845112c5997a06c0c02387901eb20,Logging bug fixes,['b3ca61348adebb351039fc183665268839591a63'],False,"['ciphey/Decryptor/Encoding/ascii.py', 'ciphey/Decryptor/Encoding/hexadecimal.py', 'ciphey/Decryptor/Encoding/morsecode.py', 'ciphey/mathsHelper.py']"
+5cc5fad4e3424203ae66f79f494993af0fe13514,"Fixed up the changelog and docs
+
+
+
+ [formerly 78deeff041565dc002b624111b7cf7f575ff359d] [formerly 00670f37ec5357b14aaf359c1a0181fd2bf74976] [formerly d2df0057272a79ca540b710bfaa2cf0855d3bf64]",['babb151cbae0b18ed126901fabfc6ebc21abe83b'],False,"['changelog.md', 'docs/neuralnetwork.md']"
+9b875b1d0dac2bd8ce68ccd66d3fb063f2a5ee92,Fixed up the changelog and docs,['52a4d912ad4f564266b5e7ed93099c96116850a6'],False,"['changelog.md', 'docs/neuralnetwork.md']"
+f005141d9fa0d54088eae123023c6785cbe4ca0a,"Fixed code counter
+
+
+
+ [formerly 3ee645fe3df18e2472a6918d17680f85d377bdbb] [formerly 872d473d4f898cde63813bcd5890333c93e9db42] [formerly 72e2d13d6b79cf8ca6679e9d1bf34db5ba15631e]",['5cc5fad4e3424203ae66f79f494993af0fe13514'],False,"['README.MD', 'ciphey/mathsHelper.py', 'countCode.py']"
+399f3d1681ffd36f30dced83d67801dd59865d93,Fixed code counter,['9b875b1d0dac2bd8ce68ccd66d3fb063f2a5ee92'],False,"['README.MD', 'ciphey/mathsHelper.py', 'countCode.py']"
+43e2b1199399947af7067b72bd022f1214fd7ac8,"Fixing logger bugs
+
+
+
+ [formerly f624f9aae38f686c246c76e2b52c487901da80bc] [formerly 3d05d178a4fb863db441eec23f0c8b9595f918df] [formerly 42c88fb7f06946e6994b1588bde8a59bc8d50ee4]",['f005141d9fa0d54088eae123023c6785cbe4ca0a'],False,"['ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py']"
+4de11ab8392e8c7b754311e2b89bbce07b29c0b6,Fixing logger bugs,['399f3d1681ffd36f30dced83d67801dd59865d93'],False,"['ciphey/Decryptor/basicEncryption/transposition.py', 'ciphey/__main__.py']"
+91d8b3745cba27b20c18c2e592f99f940bde33ab,"Transposition kinda works integrated
+
+There's a bug where the final message doesn't contain the right chars, I think this might be becaus I am deleting chars somewhere?
+
+ [formerly d31769b51ad6b1ecabde021cfe05c9875cae016b] [formerly a77a1cc0a8df3767f0e9421bc2b8260f5a0252e9] [formerly f9243c1da8d0be01a6545f6c7cbb16a5f381d5d9]",['36379e7fa0f85cecb0d64156efcbcfa3824536f8'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+92a11e64c09b5bb95a5abeff18143013f91108bc,"Transposition kinda works integrated
+
+There's a bug where the final message doesn't contain the right chars, I think this might be becaus I am deleting chars somewhere?",['79310d71a7c5d162988b27a6c8d5929798b5952a'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+4874c477a8af93a85af1888dfd93cf295e419d2a,"I think the message itself is broken
+
+Try to copy it from GitHub!
+
+ [formerly e3947739eb479949907afcbb20e2260873c113f3] [formerly d08ed7116c03002f3b1e2a5bbde508ab65b3cf63] [formerly 81cf7d7078c1c241fbb6930a14db604ab8a70b1b]",['91d8b3745cba27b20c18c2e592f99f940bde33ab'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+e9ec74138c4b56f58ef519bce83320c944a57fd2,"I think the message itself is broken
+
+Try to copy it from GitHub!",['92a11e64c09b5bb95a5abeff18143013f91108bc'],False,['ciphey/Decryptor/basicEncryption/transposition.py']
+b38dcac6a63f1a321829cfd38693f837cc1a9c21,"Bug Fixes
+
+
+
+ [formerly 3c2b46933f7a26c7eb2bf64eb3713d60bcaca8d0] [formerly 6c049b219dbd0429e1378b80014732f52c266721] [formerly a586a8f71fc12752e028d3b957886eaf1515e8ca]",['87aa83dc2f0480f6036fca61b76989e910648665'],False,['ciphey/__main__.py']
+efea03e01b517768a5206779ff6be530b4a1a0ef,Bug Fixes,['68141a8847f09100d09e8be41f00ad9eea8681f5'],False,['ciphey/__main__.py']
+d77186fe6703eaf59712cec900ab0accc01801c7,"Rich prob table now prints
+
+New bug: prob table isn't sorted lol
+
+ [formerly 95a2937f1730c14ee0bd63316f8377e689dccb60] [formerly 66331996730e0561570beb4fa4c505153c3c9d89] [formerly b6d8da2decec43ab9191f940c6b347686ad3078c]",['67c75b6db968efea7d8889b9037aed3783f2e32e'],False,"['changelog.md', 'ciphey/__main__.py', 'ciphey/mathsHelper.py', 'delete.py']"
+5554d5f21336f4faef807330749d19a6f80cc8c1,"Rich prob table now prints
+
+New bug: prob table isn't sorted lol",['9fde07e6c169d3c5a4633332958662c0271828dd'],False,"['changelog.md', 'ciphey/__main__.py', 'ciphey/mathsHelper.py', 'delete.py']"
+75063f578387a8d3b52c28c322f29ab67a23e92e,"Fixed request timeout, started on improving the readme
+
+
+
+ [formerly 4a240e160ad65608d4ed8cad0a9159d3e1c09f9b] [formerly fc97c47ddfe9d2a00e7e62073cb48db0f00eda8c] [formerly 9ae74c578a382412be01398c4339936a6f7e1202]",['322d8f58d962fc9152df47cc913408819a968297'],False,"['ciphey/Decryptor/Hash/hashBuster.py', 'ciphey/mathsHelper.py', 'readme2.md']"
+d05f7d5f3b0288bdaa280bb8b650774c54683546,"Fixed request timeout, started on improving the readme",['14a7bb2d561619630e56eabc37ae6fd0e9525432'],False,"['ciphey/Decryptor/Hash/hashBuster.py', 'ciphey/mathsHelper.py', 'readme2.md']"
+f6dc7d7b6b392b20af17ebf919555d705c62a400,"Fixing sorting bug
+
+
+
+ [formerly 56653856d8523c1a24eadfbbe86e88ebe90f487f] [formerly 2ffff91aeacf908dea908123a759cf920ab475f4] [formerly 428b00c6942f6af6bd0b552c1b07443c9ac42a07]",['91b77fb258dece92086e5b6b54cca822cf1e7c2d'],False,['ciphey/mathsHelper.py']
+060c547d1d7509ccf19e59dc13cca01da5e20c8b,Fixing sorting bug,['aededaab47d40c8fb7a83f446c8553e486db4d73'],False,['ciphey/mathsHelper.py']
+ee16e18e526fa5b51aae4dcedd8de39fd54b64b0,"Probability table is fixed
+
+
+
+ [formerly 964d5f6d7c4b48150e064e6f5056a9cbb1df6b2d] [formerly a99db58918c2d98d22dc7f2083a4d5fb78f416f5] [formerly 86d420b6e4172b638155eef0b1316c926824866b]",['27415db99fd6f3d1d5f5da192a8ca572129954a3'],False,['ciphey/mathsHelper.py']
+46c238aa394bdbd0b7a31047ffd71fff673fd82d,Probability table is fixed,['bf2e40518ea4ea7e77ac6bfd692f0d97c1813ba2'],False,['ciphey/mathsHelper.py']
+d7972d955a4fc98dd8a0c0480e674eb682eab4cc,"Update issue templates
+
+ [formerly 6fa56fc4a909d778289d916b7c26ab39880af620] [formerly a906539d3ed67b4b529578c4e5d5c3c24d9c1e33] [formerly fbd998c0f2babce4973bdce78a4f179e71730e8a]",['3bd2419c002d29bbbd77b88baababb5dc12a85e6'],False,"['.github/ISSUE_TEMPLATE/bug_report.md', '.github/ISSUE_TEMPLATE/feature_request.md']"
+7cc224450536612fd0f0f960648379b844f8b3b0,Update issue templates,['f1abb3783261a402d66a72aa3724cacb68ed9bb9'],False,"['.github/ISSUE_TEMPLATE/bug_report.md', '.github/ISSUE_TEMPLATE/feature_request.md']"
+84d693ed3733f92c2ed228a7d1333e4c01a728d9,"Fixing languagechecker
+
+
+
+ [formerly 246f9978db362a7f30fdc143f36eb821b5c6a871] [formerly b22f7743de03985edbc88e8d79b44463acb60bc2] [formerly 55a3ed84e55f43bbbe1076fa43eb487ac8486921]",['8eab0a1c8db73454869c697b904d5df5527d6c08'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/__main__.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/mathsHelper.py']"
+6767b63c1ae8c2bb1ff9a86dfc9b1d80519fb4ec,Fixing languagechecker,['79d9e8c05ad7ab51dd095c6fee8f293905c3690e'],False,"['ciphey/Decryptor/Encoding/base64.py', 'ciphey/__main__.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/mathsHelper.py']"
+577aa771fc8ea8f8c804155f99b416d8993d5411,"Logging has a bug where it displays debug info
+
+
+
+ [formerly 05950d5a23ecb94cf8b943a8aaeb08e20dfd7c21] [formerly b619e6c49cabcb95dea48b05701a5ef5f9d32aff] [formerly 3346d4a5721dac8ed56365d9000823e16d63a82a]",['5461776bf7afb222d5d7e90eecbd7a7749395511'],False,"['ciphey/__main__.py', 'ciphey/test_basicparent.py', 'ciphey/test_chi_squared.py', 'ciphey/test_dictionary.py', 'ciphey/test_encoding.py', 'ciphey/test_integration.py', 'ciphey/test_neuralNetwork.py']"
+ec81fd8162b7418310a6f966a0cc636697eb5228,Logging has a bug where it displays debug info,['00ff24b1cc764c333dc016afe27ba3cbf3eda345'],False,"['ciphey/__main__.py', 'ciphey/test_basicparent.py', 'ciphey/test_chi_squared.py', 'ciphey/test_dictionary.py', 'ciphey/test_encoding.py', 'ciphey/test_integration.py', 'ciphey/test_neuralNetwork.py']"
+8696c52ee4a1292c6f725e8f68ab80fdd0ee2e0a,"Fixed viginere test
+
+
+
+ [formerly 7f25f3b83b816da055726b9d3d2e3d8284c82025] [formerly 8ebb09ac5bc4a3d573a6408ec3c112702f1dce83] [formerly b9817c14af17e97b78ba310bbf905b85b7462242]",['577aa771fc8ea8f8c804155f99b416d8993d5411'],False,['ciphey/test_basicparent.py']
+342c1f6f45209a2c3f6b3f332ddc81a9c7227b7a,Fixed viginere test,['ec81fd8162b7418310a6f966a0cc636697eb5228'],False,['ciphey/test_basicparent.py']
+f747e75a65ad831ebb70cedc9046e1750291efef,"Fixed a bug
+
+
+
+ [formerly fdd5f8766ac89eecb630cfc149e3e32112de9dd7] [formerly b9cc941e0d23d21a1eec6b30aba0b7361b05eba8] [formerly 92482dfec8ac1b428cdde7e8c45acfe2f867d8ea]",['d9877e802c710e7ddbfa43076508ae68c1a4b3d9'],False,['ciphey/__main__.py']
+e551c966be5e4cbe6e7c88f0d77ac341bcbb8844,Fixed a bug,['fc05f85818dceedee4b7973080b740d79a780b41'],False,['ciphey/__main__.py']
+79f80bb44733eae6e9281e0e5161037e858b0a24,"Fixed conflicts
+
+
+
+ [formerly 45c7fd8118e972dddcb866f67286a8b654aa7aa5] [formerly 44e12865b7aa4c3a4590c2926bcda1dd20d006e4] [formerly e9d2cb35b3af1151479a79dc77d7b31f5763d11e]",['4210dc251365de77f0426b92c16cb65c04b69d57'],False,['README.MD']
+dd0f19cb11c47f0f31e8ceef63a90fcd455aec32,Fixed conflicts,['4e55d7f0cc85106aeb49f6ba2b404f0a8d070972'],False,['README.MD']
+eb71fd74d8ebd38d990e935286dc2c50f33ae169,"Fixed poetry and added check before tex
+
+
+
+ [formerly 13eca3ba9d498978c635dd211593f6a173b5e8b1] [formerly 6c947c988c800791a5f390407a4da3c959024c15] [formerly eca54c883c980913a03690ef45790c21f7a1835c]",['8dcb62315018f5793d4d0db0325911b432758f1a'],False,"['README.MD', 'ciphey/__main__.py', 'poetry.lock', 'pyproject.toml', 'requirements.txt']"
+97003efed68aac7f100315bc18c82bbd89444c29,Fixed poetry and added check before tex,['5226cdacd51db067f24fc13e56cf73dbe7a6db34'],False,"['README.MD', 'ciphey/__main__.py', 'poetry.lock', 'pyproject.toml', 'requirements.txt']"
+a9bd79a8fcc01cbbf77a05eb0e8aa0c72eac6faf,"Fix bug in main
+
+
+
+ [formerly 45c3adc8f016b6c168253a23378e64873e444fa1] [formerly 53199cdedaa66a0b6e08def3fa2c76cfbe4239e5] [formerly beb636f96e4d350904d5c4791873f22438e24cd1]",['eb71fd74d8ebd38d990e935286dc2c50f33ae169'],False,"['.gitignore', '.vim/coc-settings.json', 'ciphey/__main__.py', 'poetry.lock', 'pyproject.toml']"
+f800182584fb17d298115aa3f5f135db8cf2a0af,Fix bug in main,['97003efed68aac7f100315bc18c82bbd89444c29'],False,"['.gitignore', '.vim/coc-settings.json', 'ciphey/__main__.py', 'poetry.lock', 'pyproject.toml']"
+e69ae3acd1f9b839ad204eee56f1a0786fcc50fb,"Fix typo
+
+ [formerly d2160ab6a68a2447b7bd796d37a2c65fd77c0e0c] [formerly 58a3c6b44e4ee818b27fda438c239a76052b2cbf] [formerly 77cc1cab4c01968b040e9d574aee1aaf25b61264]",['8c4b65fe465fc96089894b9934f1a9b328de8a04'],False,['README.MD']
+ef6ccf25765f10b8df8591daa36f196fe191a16a,Fix typo,['bd876cb8ffcab207949885a34c74b6d7bdc33486'],False,['README.MD']
+9111c17de798f91aebd8b26fd96094da207c1fd6,"Fixing poetry
+
+
+
+ [formerly d8aa5dbc0095322fd18769106dc64d5347aebd67] [formerly e503578c74f671090e9611f904c5148aaceb5379] [formerly af23e926d56d12830a7ee19c894ad6aee8390ed8]",['2f7c35e0f9b52ff4f970ae91e5ab8121374ce4d7'],False,"['ciphey/mathsHelper.py', 'pyproject.toml', None]"
+8c7587540e2322e362c9f61252a303836a5850bd,Fixing poetry,['ed07c1d69e80488e065783283624874de49ae93a'],False,"['ciphey/mathsHelper.py', 'pyproject.toml', None]"
+514f3adee652c8329ae7c7879bc341de0735b5a7,"Fixing pypi
+
+
+
+ [formerly 5fa7a3d301e1c2eacf50bd8b0504802d0d9f6f02] [formerly 30e7e47583b6797e52905c2e1305997a013c8ce8] [formerly 28e65cc3422f36a473707687e29818a5bee89bc0]",['9111c17de798f91aebd8b26fd96094da207c1fd6'],False,"['ciphey/__main__.py', 'ciphey/neuralNetworkMod/passwordNeuralNetwork.ipynb', None, 'pyproject.toml', 'requirements.txt', 'setup.py']"
+70b6c138b6b21eb628fde26db516234431eba491,Fixing pypi,['8c7587540e2322e362c9f61252a303836a5850bd'],False,"['ciphey/__main__.py', 'ciphey/neuralNetworkMod/passwordNeuralNetwork.ipynb', None, 'pyproject.toml', 'requirements.txt', 'setup.py']"
+d0da0ef44274fce61b50009c6e7476f206090b81,"Working towards fixing arguments
+
+
+
+ [formerly 4074e3032531e2c6bcc27fb7a1e2d406b86a34ca] [formerly bc5c4427c4ea77d71e27e56e5182f8278b2452e8] [formerly f2c6c807575e484b6e6c8b2f05e758cde1ab275e]",['f26f772bc29ef378750f0693bd005687c9c5853a'],False,['ciphey/__main__.py']
+df7fe73b7ce8f8422856b0caa2ce0e12e2fcb4b1,Working towards fixing arguments,['c0d2ab1d6a6be4a35b49dad3a071dfc5b96e7cf5'],False,['ciphey/__main__.py']
+9caf9e4dbb5340bf36ad714e8b65f31bbec57522,"Bug fixes
+
+
+
+ [formerly 2b000019c9dcae81df7891eb63bb84128b9aa4bd] [formerly d7d0723fb1a25f8081be2a8a64fa25cd08f8c9f3] [formerly 1a5e84f7033dc45bb0a21710cd5a77e08e17e26e]",['a2547ed999d3e895054a8d6c4b016610d7ef4a07'],False,['ciphey/__main__.py']
+9678c8df2de44c23e4ef1edd815b8f65f37ef682,Bug fixes,['144a305c6311d2ca423c920c62b22babcd6c5ce5'],False,['ciphey/__main__.py']
+5ee317b2c03df221d91d1baf8cbf79848f9c5245,"Fixed ci
+
+
+ [formerly 0ca2dd516afbf4d4b6098f24a2d7903fc2d86707] [formerly defdeabaf3b3017e99d5b58b5f90b7ce6e5e2b3f] [formerly 411c90d228080b4c9f562003932e94ccdd26022c]",['11eb1181c1c19dd7523787e1fe4279cfd57504a6'],False,['ciphey/Decryptor/CipheyCore']
+165a7f4feb92278636c094d5eac9cd3ca9715a0a,Fixed ci,['aedbb5b8d25e7d6f82b05ecf71b46fee1ad49e40'],False,['ciphey/Decryptor/CipheyCore']
+45f531b46f82c593b764a51126f41b92f8fda14d,"Fixing pytest
+
+
+
+ [formerly bf3da7479b9f7f160c1192216302955fdc31eab0] [formerly a7eca99dbfbf5ed87d372781d97cec537d9025df] [formerly 01be9349b50c8353b65ab48f8c35011e8b886278]",['825b2ce005735e1b40938f1270507bde6a6a3809'],False,"['ciphey/__main__.py', 'tests/test_integration.py']"
+d99629861140d0e83ec61cee2084e7e0d5150e59,Fixing pytest,['2d6556d9e4e96fa714be5663214114c34f62256b'],False,"['ciphey/__main__.py', 'tests/test_integration.py']"
+4d2d26418ff198548ba15771ef0bbe0dcd18356e,"Fixed bug where Base64.py did not use languageChecker
+
+
+
+ [formerly c5b8cefb867c274a2bc7686dd8b563023cab76bd] [formerly e15cd3dafdead271bcfb62e8fceb97ad47ee2f23] [formerly c444781860a30c683e0e3e5657f7a01de905847a]",['c4d0992dab974e8fc827ccd4e5cf676ee3ed2367'],False,"['.idea/workspace.xml', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/test_encoding.py']"
+4937464657ada553c2905804b6a4aec88501ea1e,Fixed bug where Base64.py did not use languageChecker,['1b81199615a072a1a7853f7496afb4592096c61d'],False,"['.idea/workspace.xml', 'ciphey/Decryptor/Encoding/base64.py', 'ciphey/test_encoding.py']"
+afc122389237ca8d636c774d2eaeb321a5af2e87,"Various performance improvements and core integrations
+
+Also fixes #76
+
+
+ [formerly f1b0b1f5328760ccd3ee1c7e4a1fda843d28f35f] [formerly 517aa4568342e4da5ca35242afc13cbb3fba1ac5] [formerly 7e8bbbb0a7797025606c249d6aa7046244b73f18]",['c4d0992dab974e8fc827ccd4e5cf676ee3ed2367'],False,"['.gitignore', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/languageCheckerMod/chisquared.py', 'pyproject.toml', 'requirements.txt']"
+1c9d39ffb750108696a3b8021791f6f7e4d99340,"Various performance improvements and core integrations
+
+Also fixes #76",['1b81199615a072a1a7853f7496afb4592096c61d'],False,"['.gitignore', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/languageCheckerMod/chisquared.py', 'pyproject.toml', 'requirements.txt']"
+ac93feb7e80f8bbeb2abca6b8975c256a6117f6b,"Fixed non-determinism for real defo sure this time absolutely!
+
+
+ [formerly 59e0f0d18bd58a07e98b89378ec197f22b8354ae] [formerly 3c9918afc86bf318e17566727e96655080300ec9] [formerly 8f7da82ffb33acaf04a260a770b6da3e6e4c0ff7]",['a7c07e348e75254847f90e870ec995c59a86a436'],False,"['ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/languageCheckerMod/dictionaryChecker.py']"
+93e5552819f589f35f96515f87d7d138f73b0b2d,Fixed non-determinism for real defo sure this time absolutely!,['28bd9ad10e04c64d258df186dc5d27837f303cc7'],False,"['ciphey/languageCheckerMod/LanguageChecker.py', 'ciphey/languageCheckerMod/chisquared.py', 'ciphey/languageCheckerMod/dictionaryChecker.py']"
+c228ca488148695aeeb35b05f52a3441aba685d3,"Merge pull request #85 from Ciphey/switchPoetry
+
+Pep8 and fixed Pytest
+
+ [formerly 4b28afffbfa5ccafb3900f72f0cece2bfbc1215a] [formerly ac435752912adab2fc1210b81e721516344a0f48] [formerly 31b4991cacd1faff7b02c76a81f8334bc24a5908]","['ac93feb7e80f8bbeb2abca6b8975c256a6117f6b', 'd4052299af1917cfb17462d740d4f4a893196579']",True,[]
+6e7c41ac48504933a47cb8f75a8dc8f5caf1451d,"Merge pull request #85 from Ciphey/switchPoetry
+
+Pep8 and fixed Pytest","['93e5552819f589f35f96515f87d7d138f73b0b2d', '99d33b928dab46cf0d96846130b021c77c0f193a']",True,[]
+3c54f2f88327cca69eeb8652c6d023a38409220c,"Fixing chi squared
+
+
+
+ [formerly 52fc68eaf3b06b6d0e4c79f7e627ab5533874297] [formerly 8ec05a8462bb871925ea1c33069d07705ef3e748] [formerly 18c61a7449ba3b03cbe7d16ee702c52e9c24e99b]",['b81af3d7a49f5339c4daab4a78b1614245725814'],False,['tests/test_chi_squared.py']
+6d93515f75ae0a526e6a056c4face4a4649ea36c,Fixing chi squared,['a01397f9e538016177cf959fdbbaa7a2cb11fc76'],False,['tests/test_chi_squared.py']
+f1179cafffa47a13cf113146a73b3789eda323bb,"Fixing bases & print statements in main
+
+
+
+ [formerly 575f73fc71b2c1912e3aa1e727b9c4e7687b81aa] [formerly ed8ff40057e2f8ed83dbdf435b32a1be56de79d8] [formerly dd1893d6bdfab23f0b4fa0c6d51cfba73a03ffba]",['4981d6012c34c87c7f8f57c947bf5a33551223de'],False,"['ciphey/Decryptor/Encoding/bases.py', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/__main__.py', 'docs/main.py', 'tests/test_generator.py']"
+c4b4a667e2228c5bfd0a9dfe4da2c730a68c0fcc,Fixing bases & print statements in main,['708668b8daed88dd31677e3c60f97fd356da7298'],False,"['ciphey/Decryptor/Encoding/bases.py', 'ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/__main__.py', 'docs/main.py', 'tests/test_generator.py']"
+9c8f57a3cd3c26311499a23cc6b372dfe20f7613,"Fixed serious main bug
+
+
+
+ [formerly 02e9e74362338bfd6c86b8a7af6b46643eff8d7e] [formerly 70159259a4c089a10192d0f15c7eb500a2745c6f] [formerly 1ea66fe4dc2b24b5b8c12e0a0da6425035d0a507]",['f1179cafffa47a13cf113146a73b3789eda323bb'],False,['ciphey/__main__.py']
+79c32446807668796519d871791c3954a49a6e47,Fixed serious main bug,['c4b4a667e2228c5bfd0a9dfe4da2c730a68c0fcc'],False,['ciphey/__main__.py']
+0b3bac3588213320060a11fe0bebf5c334fcf05f,"Merge pull request #89 from Ciphey/fixingBase
+
+Fixing bases and fixed main
+
+ [formerly 8bfcb556043ccc1786c592d2e14d33e2fb247445] [formerly afc17634d525df7b7f38e4383e06d659cd0a02e1] [formerly 987475007a0465ef877c95b8c14ed5f8b6ef644a]","['4981d6012c34c87c7f8f57c947bf5a33551223de', '9c8f57a3cd3c26311499a23cc6b372dfe20f7613']",True,[]
+be2b391aba1cf4e17c8ff092c35913480b4530e8,"Merge pull request #89 from Ciphey/fixingBase
+
+Fixing bases and fixed main","['708668b8daed88dd31677e3c60f97fd356da7298', '79c32446807668796519d871791c3954a49a6e47']",True,[]
+fadbe216332d8f1223ed064e4bcfd8c9a390e3b4,"Yes its broken
+
+
+
+ [formerly 7f0fa64e8aac201be1ef91f862801a3c08a41b04] [formerly 8a657ba1a3dada976302ab1a44947319b248fdbf] [formerly 9ef8b356268a660ef66c79ccb5c6b0a1d21cc6c0]",['ee6934484f3587dbcf943b92ff4c0f5b9f662063'],False,"['poetry.lock', 'pyproject.toml']"
+46438a4a92c3d5a26693605fc35aa5100f15f418,Yes its broken,['3ec34f20e07c53c1ba0ab2242d5571944266a7c1'],False,"['poetry.lock', 'pyproject.toml']"
+1365da6df3da96966aa99e24d3e4a2ca258a7a41,"Fixed poetry
+
+
+
+ [formerly 33660f52c4abb6cbf5e50205a651f2aa0c76dab8] [formerly c0e260e981db0a67b57be3f728912cc87e24fdf7] [formerly 6343afba3370214bd263cb101f9d38cc0e173de9]",['fadbe216332d8f1223ed064e4bcfd8c9a390e3b4'],False,"['poetry.lock', 'pyproject.toml']"
+73449885f83e4ea24966146fdde7daaab4975bd4,Fixed poetry,['46438a4a92c3d5a26693605fc35aa5100f15f418'],False,"['poetry.lock', 'pyproject.toml']"
+a3bcfeb14cd5cf445416a4c2477403eafcdfde27,"Fixed bug in main
+
+
+
+ [formerly 270aecdacde5eda61406f9195236a23ffaa66af9] [formerly 7a09fa922cc85f1e6529144f3ae44db3324a799f] [formerly cad7014afd3906df63d3476cb85ba2caa33a3b27]",['085114aab50bce116219e1e2449254d131e0c63d'],False,['ciphey/__main__.py']
+922f8077091cb87cb8f1d017ee24fd59c88ce8d3,Fixed bug in main,['5ce705b5e0c8cfc5fb9b198bb851bc8e3c6dbf18'],False,['ciphey/__main__.py']
+c0686a29e66fcb2d2c99357b53bd286b2518732d,"Fixing noxfile
+
+
+
+ [formerly 25a7a4d13be91a773c5d2517714a50e789f79c26] [formerly 02a4be19fd8bbe73d81c9f4550f7922ea1be4b49] [formerly 3602007beaf06ef3a269ad30f1a0a0f4a7b4a2f4]",['ef0d1b5821efb39b6313ac0f4d190a44eed75a8a'],False,"['noxfile.py', 'poetry.lock', 'pyproject.toml']"
+f926149e45a97d9ec5584bea1833f285cccc80d3,Fixing noxfile,['dff13e696fb67e4ddd545f3cb8cd5f52b709a53e'],False,"['noxfile.py', 'poetry.lock', 'pyproject.toml']"
+914e79fea511256882838e41448b84f8a2de9239,"Timeout issue?
+
+
+
+ [formerly 6fb02ace7b9ea998066123b794e4c582c5f6e9bf] [formerly 2d6ebf16e324efba1d6100bbe8cf081854ad046d] [formerly ab0c12d93244273c5bbd73b0cfa7a97e78dfc987]",['a9a9397796333610ea5b534ccddf0acfe5f3caf7'],False,['.github/workflows/pythonapponpush.yml']
+363aae793f29457a21f2f0fe30bf1506c51d8646,Timeout issue?,['c6d822c29ca6090ef9f6e508af7bc47b2a5cb084'],False,['.github/workflows/pythonapponpush.yml']
+885338a03ced91532dcd1d907d9b55e776eba83a,"Fixing documentation
+
+
+
+ [formerly c63bfa18a5de6b9046be2aa2867ca6bdfe10d63a] [formerly 620c510b6d6a90d933a7ee6619da4a69dd780f93] [formerly 37b6bbebb8e431423a47020fb78fb61132b803c6]",['6c13e72268ca018334138e01389e2a748d54be43'],False,"['README.MD', 'docs/conf.py', 'docs/index.rst', None, 'docs/reference.rst', 'docs/whydidntyoudox.md', 'noxfile.py', 'poetry.lock', 'pyproject.toml']"
+6bbc93b1191510aeca4ee15a933e21ee8fdcf86c,Fixing documentation,['5e95114342bbb7cda9ace035c6a0244fe6e068c7'],False,"['README.MD', 'docs/conf.py', 'docs/index.rst', None, 'docs/reference.rst', 'docs/whydidntyoudox.md', 'noxfile.py', 'poetry.lock', 'pyproject.toml']"
+0257f66ff640c6dcc71fd3e77199e6ff4841947a,"Fixing documentation
+
+
+
+ [formerly c07bda8de2defd1b6d1881db11e5179a01f255b4] [formerly 70f2d5e4458f62f401888366deac276a50fae3d7] [formerly 354950757895c0a0e4a699dc285e224c9df9fc30]",['7bb7477bb36c0c001de9bad5b5a21d6518e6f509'],False,"['README.MD', 'docs/conf.py', 'docs/index.rst', None, 'docs/reference.rst', 'docs/whydidntyoudox.md', 'noxfile.py', 'poetry.lock', 'pyproject.toml']"
+57516f518438a5f036cdcce71e6b50e76510f3b6,Fixing documentation,['22e87bef30b2896353edf51540b6f5243089ed51'],False,"['README.MD', 'docs/conf.py', 'docs/index.rst', None, 'docs/reference.rst', 'docs/whydidntyoudox.md', 'noxfile.py', 'poetry.lock', 'pyproject.toml']"
+084d3081c721e9f393e34ab587bee4adb216e3b4,"I forgot Nox used requirements file.... Fixed it!
+
+
+
+ [formerly 3aebf66c7e70c55195b24f09d5494b01539ae42a] [formerly 02db96bb824660b40f9f00f12b637c1cd60876a8] [formerly 6d3c144f778929d1ab968e6bb99691053528464b]",['7aee4463e407c43ae85550db60e6aaf42b2d49b0'],False,['requirements.txt']
+920c3da49d08855f1daeeda1121b1e7b6b84f393,I forgot Nox used requirements file.... Fixed it!,['feb7344becdfcdc9862bb39bf5c701243a7a39ab'],False,['requirements.txt']
+7939c783c50ac2f1c999ed5e90ab617907d65ca3,"Sorry Cyclic3 for all the notifs, trying to fix CI
+
+
+
+ [formerly 85ca9573f04ff36ad1c2f0d2e34b35c1c8aebb3f] [formerly 925bb695df7763a06df279112dcfec595885e324] [formerly 4c8122b2e0255127fe1992bc986906dbcf1fd08d]",['084d3081c721e9f393e34ab587bee4adb216e3b4'],False,['requirements.txt']
+124ebbf10f653b75d066c2226f2ed8b1b181250c,"Sorry Cyclic3 for all the notifs, trying to fix CI",['920c3da49d08855f1daeeda1121b1e7b6b84f393'],False,['requirements.txt']
+43bc8c853afba54e7d1a75fe1a5fc8d36406c9c3,"I hope this fixes CI
+
+
+
+ [formerly 33c231c0cc31715e1855bb99eff29e2141c16b51] [formerly 2241dfa7f687a4e670264a5b382a006ba84ea74a] [formerly 0f161bc81bf1147b8cebe36d54e583822cfa8f1d]",['c146b3d336c4f70eb30487ca2af0b0c0fbb4d776'],False,"['noxfile.py', 'poetry.lock', 'pyproject.toml']"
+ba8e279efa9dca476bac843560aecafa926970cb,I hope this fixes CI,['6145102ccffcdfa2cc4027fc7520d774f750d58d'],False,"['noxfile.py', 'poetry.lock', 'pyproject.toml']"
+f0c5057e35823260af0e01055588304ed4e69f33,Fixing Morse & Added to changelog,['ba8e279efa9dca476bac843560aecafa926970cb'],False,"['ciphey/Decryptor/Encoding/morsecode.py', 'docs/changelog.md']"
+f30b8870892d2e5daaa242eeb3010f7c42f21c51,"Fixed encodings
+
+
+ [formerly 54785943619ccd928a0b28f2fb69eb398ebc65da] [formerly fd12ae2f58849428f5dd920e8c3769935d34e0b9] [formerly 8c0faa663c8852d152f11b5a9a37b9a6e7d7bc01]",['e155661a41b657605ae9ef8516e8cb16b22d227f'],False,['ciphey/Decryptor/Encoding/bases.py']
+123a83efcd6aef33fcc361fdfce6f4ea3c872178,Fixed encodings,['d3782e00188d89b5fa947dfb12ff849b71e97593'],False,['ciphey/Decryptor/Encoding/bases.py']
+d341cd38ba21eb20db275461c96d0b0738b3d371,"Fixed oopsie
+
+
+ [formerly e4a63d82fcf81dfb704a7c981e05ccd6a0b1555a] [formerly 3fedac7e7a87e0ebd026295ad67252809af80133] [formerly 8b56b9840eef71500efdff2868e06c6293cb51c1]",['6ca7ea2769d0ebba5739ae4956353b954c09ee0e'],False,['ciphey/Decryptor/Encoding/bases.py']
+d5f7c8dc0b7103bf50a57ce01b0d5df4ae1c0d10,Fixed oopsie,['1559bff63dccf143477872653cda2289bfb4d6c7'],False,['ciphey/Decryptor/Encoding/bases.py']
+a9b2033e3390330541685961b36cebca272e2ad5,"Fixed tests
+
+
+ [formerly 5bdb5921c9e19850eb48fc73a1375b07a259ccc9] [formerly f33679afc785e14de963b1da7ef91b1b10272897] [formerly b897f5051621a3c5d756bbd3f837b050f9bca292]",['7ea8061b87367e1eb25586c155104d7d5163b32c'],False,"['tests/chi.py', 'tests/dictionary.py', 'tests/integration.py', 'tests/test_encoding.py']"
+d5cbeb40bd270ad347a6bf4d33ef6aec37aa2b97,Fixed tests,['d13701ae3f3ebb8ac818ef6a98f856536b3abd24'],False,"['tests/chi.py', 'tests/dictionary.py', 'tests/integration.py', 'tests/test_encoding.py']"
+0e84ec85a00bff57ff1348b97ef0bd05e469c7ea,"Tests now fail correctly
+
+
+ [formerly eb5a5713facb310b09228ac4335c21bdbe929400] [formerly 865d6f15d0fdabc0a67ba680406260dbb6a8b5c5] [formerly 73911ad06858b9cb7ca4d3e538e616b1871f6db7]",['a9b2033e3390330541685961b36cebca272e2ad5'],False,"['ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+50b576e9bdde1743ba47ab3f8624c21f0a7ebba2,Tests now fail correctly,['d5cbeb40bd270ad347a6bf4d33ef6aec37aa2b97'],False,"['ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+f2a604464fd3b936be66e5d8f6fc8b38c74b3dc9,"Fixed brandon
+
+
+ [formerly 914442ff71f492a8869e802642bb84033c2c46d2] [formerly 705ed87e42a785562bd0f80427eebf6a08c8ba21] [formerly 8bc324c24733b3b4a5f185e1ac9a4ae579f4a819]",['0e84ec85a00bff57ff1348b97ef0bd05e469c7ea'],False,"['ciphey/LanguageChecker/brandon.py', 'ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+77f4ffcd3ff28859f34038132e3b6b2f5714b8b3,Fixed brandon,['50b576e9bdde1743ba47ab3f8624c21f0a7ebba2'],False,"['ciphey/LanguageChecker/brandon.py', 'ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+d71704ddfbbb73d478e6bd31ca5fee26e614853e,"Fixed tests and such like
+
+
+ [formerly 9a151117b0515adf8ecd63af0fd884851a0a42ab] [formerly 45f3c007c211c5f1a44584c6bc9bd26aed3830a8] [formerly 7bc4e2c183eb669d559232ed4f9062cde31b0207]",['f2a604464fd3b936be66e5d8f6fc8b38c74b3dc9'],False,"['ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+c0bc687f14a4efd827a8e523e4bff15132e39eb1,Fixed tests and such like,['77f4ffcd3ff28859f34038132e3b6b2f5714b8b3'],False,"['ciphey/__main__.py', 'tests/test_encoding.py', 'tests/test_main.py']"
+b21368c5405d9a08cacb26b09a4f5e2ec6b533fe,Fixing Morse & Added to changelog,['76a5d5c3e6c82ad191d5adc603ba0d2cdd33351e'],False,"['ciphey/Decryptor/Encoding/morsecode.py', 'docs/changelog.md']"
+279a5e9cb3c7466a1d0e648ff813846d030652ee,Merge remote-tracking branch 'origin/fixMorse' into fixMorse,"['00592102666816c35df547b978e5471c762de415', 'bf2715e93bb475fe397e831338d0c6d0d5f910aa']",True,[]
+76aa894b37803d7262eb3c9c59036cc021c4896e,Merge branch 'master' into fixMorse,"['7b0c8aa9d923bd37151425c4af449077c5305022', 'bddd18e3a610b310fbb738e236ebe6299e5ae9bf']",True,[]
+6a16998ef0014cd0e983cee7d8e5a0c0fd64fc25,I fixed Morse Code,['61722b17fa22ba5c960606334e90252c7188f1a9'],False,"['ciphey/Decryptor/Encoding/morsecode.py', 'tests/__init__.py~HEAD', 'tests/__init__.py~fixMorse', 'tests/test_encoding.py']"
+1b04d9ea2f1d9316b216cb9d2275439de2ac52b2,Temp fix,['23def5fcbb61cc4249529ee1c8b499876b034335'],False,"['.github/workflows/coverage', 'noxfile.py']"
+ae0e5eb344f434e275ec21e77cfc85a77660f8b6,"Merge pull request #106 from Ciphey/fixMorse
+
+Fix morse","['bddd18e3a610b310fbb738e236ebe6299e5ae9bf', '1b04d9ea2f1d9316b216cb9d2275439de2ac52b2']",True,[]
+6477495f78bf494b57cb19532250453c0f36c249,Trying to fix coverage issues,['1b04d9ea2f1d9316b216cb9d2275439de2ac52b2'],False,"['.github/workflows/coverage.yml', 'ciphey/Decryptor/basicEncryption/affine.archive', 'ciphey/Decryptor/basicEncryption/freqAnalysis.archive', 'ciphey/Decryptor/basicEncryption/vigenere.py']"
+d768f9585d153a8894e8da940b4cc5b46975f993,Fixing my mistakes,['6477495f78bf494b57cb19532250453c0f36c249'],False,"[None, 'ciphey/languageCheckerMod/__init__.py', 'ciphey/languageCheckerMod/__init__.py~HEAD', None, None]"
+f71b59254c9f60a146c3bf0c77e04897a8b2a1ef,Fixing my mistakes take 2,['d768f9585d153a8894e8da940b4cc5b46975f993'],False,['noxfile.py']
+658b773dc9bd359dbbfbf8362cc7e06099c4b73c,Delete __init__.py~fixMorse,['8f21f4e809974189e7a15cfaaa79deccdecd7b2b'],False,['ciphey/neuralNetworkMod/__init__.py~fixMorse']
+1a52f1fc6f445dbd92890151b152fe72585094db,Fixed requirements bug,['b9dcd05faf6562832dfe2191c9629d9e5f0b68d4'],False,['requirements.txt']
+53f04e38838452f50f66b5c95dca61fef6a496a2,Quickly fixed tests,['1a52f1fc6f445dbd92890151b152fe72585094db'],False,['tests/enciphey.py']
+b40ae06c95f63939f56b0f91a4802603cf0fd960,"Merge pull request #110 from Ciphey/deletingUselessCode
+
+Deleted Useless stuff & fixed tests & NN","['8794c1a2ee49bef807250eff8d1ea4f6d69a7c0a', '53f04e38838452f50f66b5c95dca61fef6a496a2']",True,[]
+51afd8a9a6d908f9f339ef08f85dd69c187e156e,"Fixing #84 base85 problem
+
+https://github.com/Ciphey/Ciphey/issues/84",['7b919bf6de3c616167be165e64659089f88aa8ff'],False,['ciphey/Decryptor/Encoding/bases.py']
+4ef28d94660d983901d117f2faaaaf236beebd3c,Fixed michal,['51afd8a9a6d908f9f339ef08f85dd69c187e156e'],False,['ciphey/Decryptor/Encoding/bases.py']
+a2a36b8614ae5f6988d457e01667dfec9c114303,"Merge pull request #111 from michalani/patch-1
+
+Fixing #84 base85 problem","['7b919bf6de3c616167be165e64659089f88aa8ff', '4ef28d94660d983901d117f2faaaaf236beebd3c']",True,[]
+3771192e20451ee61d38efa7e638d0f3fae14bbf,Fixed stupid morse,['b40ae06c95f63939f56b0f91a4802603cf0fd960'],False,['ciphey/Decryptor/Encoding/morsecode.py']
+9b6493416eb873e95e763257f85fc660c1ae0b9e,Fixing bug,['05ebf5a95f83ce763d88aaebedba9c4b2d8db5d3'],False,"['ciphey/Decryptor/Hash/hashBuster.py', 'ciphey/Decryptor/Hash/hashParent.py', None, None, None, 'ciphey/__main__.py', None]"
+5ba40b741599f12609f6b3d8ba6814b49cd76069,Codecov fixes,['f1f0b20e809e965fc67479108c2ed067d9e17d13'],False,['codecov.yml']
+76d3ab3671344bfb739058ddee57a34dc2926fc8,Fixing CI,['eb0c7f706710547a497dfc7fa2078f2f228e0fd8'],False,[None]
+2dde6dae0256fcdb286a1a1aa0f1d9f73a17ccf9,Update bug_report.md,['87db0bd2233b5e9d5e9186306441551cc53823a2'],False,['.github/ISSUE_TEMPLATE/bug_report.md']
+e18c432b33c5e26743757ffd28993d1d6d17a71c,"Merge pull request #121 from Ciphey/cov-fixes
+
+Update codecov.yml","['870c9ec2d7a8ab6bbf448444995f62ba902cf636', 'b40624ecdd8f61499885b29240b209b23c017168']",True,[]
+d06cdccac80bc89fb42b268b48a5c2162d9cc930,Fixed Main issue returning internal data packet,['eec2c0fdc6bd16a23e07a6ef04b803782b3da40f'],False,"['ciphey/__main__.py', 'requirements.txt']"
+58bc2e4a6b32f5f0221720cc1a0b5670c03dbf19,Fixes,['98efbfee93b9d5ccbf2157d7ef5f71b3e8f465af'],False,['requirements.txt']
+3e3ca03e9e24b6e0e50d5798296a64b24c708c1b,"Merge pull request #122 from Ciphey/cov-fixes
+
+Update codecov.yml","['560cdc18be166534924516789f561055ae7635c2', 'ec2f3a3a5802faa4a0c375630ea6115d1f1c163a']",True,[]
+7e109d483377f2b14f953171d8459613ae161b68,"Added offline mode, fixed up argument parsing",['2cfb0dcf7c0f5696fbabdeb8f939515dc44dee37'],False,"['ciphey/Decryptor/Encoding/encodingParent.py', 'ciphey/Decryptor/Hash/hashParent.py', 'ciphey/Decryptor/basicEncryption/basic_parent.py', 'ciphey/__main__.py']"
+6a475c26aee21fc5b3132e84629f6737e765887c,Fixing tests,['7e109d483377f2b14f953171d8459613ae161b68'],False,"['tests/enciphey.py', 'tests/generate_tests.py']"
+ca38e7c01f5d1f678da6fa09bba14b4606a4e3f0,Updated bugs,['87b77f6e46bf99b995d9aba509bd0c2bde8f7648'],False,['ciphey/Decryptor/Encoding/octal.py']
+3e500802f94c7451bf280ff434d7789a03b59389,Fixed Code Contrib bug,['ae75424b3a55274d0d9082e4ecf91346504b678d'],False,['.all-contributorsrc']
+1a3d7671fb084c2b2ef63e7952511cd2f0d528bf,"fixing PyTest, fully works now other than pytest",['e47ef8d896e19d18780db3a105db5bb8da499ceb'],False,"['README.md', 'ciphey/__main__.py']"
+a3d85d41bbdeb6dc5ce41b44bf520eabc2cd3222,"Merge pull request #146 from Ciphey/fixingPipeIssues
+
+Switching from ArgParse to Click","['5b20589d6743a80f00f950bbc479f94dc86b8c14', 'afa102cf02b6830c6de2e15868ea11e2f041e586']",True,[]
+b77c4eacd111b3805969e0ed0c8bccd808524009,"5.0.0 first release (#154)
+
+* Started working on brandon checker 2.0, added more docs
+
+* Starting on cipher iface from #104
+
+* Starting on cipher iface from #104
+
+* More registry work
+
+* More registry work
+
+* Nicer registry
+
+* Nicer registry
+
+* More iface
+
+* GCSE geography WAS useful
+
+* Refactored logging, and got module loading to work
+
+* added skeleton of object iface
+
+* Quick patch of registry
+
+* Fixed docs
+
+* Holy sheet that's cool!
+
+* Fixing old python
+
+* Logging and testing refactors
+
+* Wow I hate this stupid reference bs
+
+* Can now do iterated encodings
+
+* Morse optimisation
+
+* More migration work of modules into the refactoring, and added list regex
+
+* Added comment
+
+* Uploaded tests
+
+* Can't get Jupyer to work so I'm doing it in raw Python now
+
+* Started fleshing out the builder
+
+* Updated todo list
+
+* Figured out hansard.txt has spelling errors
+
+will try to apply SpaCy model to automatically fix errors
+
+* updates
+
+* Added new dicts to gitignore
+
+* Started combining the 2 dicts
+
+
+
+Former-commit-id: 0733c4951dbff373748f4c0c2c3fb2a4d224fd32
+
+* More cleaning of the dicts
+
+
+
+Former-commit-id: a1290e2bb67ce7a8bc9626fbc7e294806b1e6913
+
+* More work on fixing up the combined dict
+
+
+
+Former-commit-id: 733cdb1635d5cd3f93f52e6afd10efee0f58b50e
+
+* Text is almost made
+
+
+
+Former-commit-id: 5e6b2e8e4b230494f082d8f1c4fe1061b8f31ace
+
+* Adding more comments
+
+
+
+Former-commit-id: 62ae46be03b2d4e113e4552a97a7e903591b387d
+
+* Working on an automated test
+
+
+
+Former-commit-id: 38a28368efb1ebed7cf7a4e8fe6906a59dddc3be
+
+* More tests
+
+
+
+Former-commit-id: 0f677a31397c9a358ff4e5d487e35571319f2877
+
+* Switcing to I3
+
+
+
+Former-commit-id: 47d7112655be06b42f8a8c7c2b6fdfc0e561d8a9
+
+* More testing stuff
+
+
+
+Former-commit-id: 5179e8cc8a3bf6554c13a1667bea8b449a547205
+
+* Fixing tests
+
+
+
+Former-commit-id: 7e5fefd473f21bad4a21d0e87e9905e63d5fb50c
+
+* Turing the file into a proper class
+
+
+
+Former-commit-id: 69058f7768e95d20e33c7bf1e08de362d227bb4e
+
+* Working on automating more of the tester
+
+
+
+Former-commit-id: c88803c15f1b4ee1dbc5f5a963bc5856a1fcf96f
+
+* Fixed major bug
+
+
+
+Former-commit-id: a4affd37f6fc03567f0fa077ac5ebdd04f7ab7ae
+
+* Added targeting
+
+* Adding more tests
+
+
+
+Former-commit-id: 8dcc8788fb1d85f45a50f4943551075969a79f82
+
+* Optimised word endings
+
+
+
+Former-commit-id: 0a309423d9278745efeb3c71f06d6a2612e0a213
+
+* switching brancghes
+
+
+
+Former-commit-id: b334b950e5c48d5582febb929e7503602ab4a020
+
+* harlan pls
+
+
+
+Former-commit-id: cea325a58b0405417c7909d10906b5e3626d8582
+
+* Made it better
+
+
+
+Former-commit-id: 3dbc9e02e997b87424cd0bf890bf2edfd18ccdf0
+
+* stopped using 20k tests
+
+
+
+Former-commit-id: 8b7ac4a5b19d5d6df8717e4f068ed853c35b85fb
+
+* started automating threshold calculations
+
+
+
+Former-commit-id: a9626bef1dc9c373122b9471ab3cdfe8f4d77a6c
+
+* Started writing more threshold calculations
+
+
+
+Former-commit-id: 2a5b844885d7f912e118eebba4b706a3a7db444d
+
+* Maybe this will work
+
+
+
+Former-commit-id: 20ab0efa3143a8be19178ee6ae111f2d68b2378f
+
+* Added important todo
+
+
+
+Former-commit-id: 1d14c87bd09ce6c4de8364bdaecd3920b5a46648
+
+* Started building the NATO checker
+
+
+
+Former-commit-id: 2c4ac906a7fac7bbe799cde9f289632e68df0a1a
+
+* Updated settings file
+
+
+
+Former-commit-id: 776143f1714325faac5d75a6dea41e27affcf677
+
+* Added sent size calculator
+
+
+
+Former-commit-id: 71f715b87d21efccd2dddd9ecb85b24e765d0af2
+
+* This works
+
+
+
+Former-commit-id: 88a82f12879fd8e102657e4e92eddedb48affe3f
+
+* Bug fixes
+
+
+
+Former-commit-id: 0445ea0a60829221aea4f531d47ea7af2719b3f1
+
+* This finally works LMAOOOOO yayyyy
+
+
+
+Former-commit-id: edc0371251a5ff305c91bbf07feb898402d49965
+
+* Done tests
+
+
+
+Former-commit-id: 9734ee69dfc799287532f16d82d050732b7744f7
+
+* Wrote up more docs
+
+
+
+Former-commit-id: 350380e54bb7dae7c0cb4f26c6a6d8f2d499af57
+
+* Started creating new brandon iface
+
+
+
+Former-commit-id: 055f031cb1ffb279f268e210b2aaa46d8cf1262f
+
+* Building settings
+
+
+
+Former-commit-id: 754a9a5498fd8fac823dcdca28743b0f7ff8345a
+
+* Writing documentation
+
+
+
+Former-commit-id: 63f3e18dbdcf2d1296dfe39b83aedfff6d09da11
+
+* Started integrating the settings file
+
+
+
+Former-commit-id: 108e165f4fcf8f823c205310fd659321f77f6389
+
+* Docs
+
+
+
+Former-commit-id: b4875c8a9cc656576031708e625113357e5212dc
+
+* Moving to tf lite
+
+* More settings file stuff
+
+
+
+Former-commit-id: 164c0ea9b47fe7c182665ed5dc9072fa3f543cc6
+
+* Added more docs
+
+
+
+Former-commit-id: cdae88f4b718422282f97aef527ece54292279a6
+
+* More settings stuff
+
+
+
+Former-commit-id: 85b547134692bfe91af0dac5eaf9f4e639d15174
+
+* More updates
+
+
+
+Former-commit-id: ff521d1d86938d62307427f5237966a6c907f3a9
+
+* Added regexFile
+
+
+
+Former-commit-id: 75f25febbc969359ef7e08a2b1da8cda13f81423
+
+* Adding more comments to settings
+
+
+
+Former-commit-id: 54dad6eb30682b9877ef3bb9e21bd2da790172dc
+
+* Added where argument
+
+User can now easily find appdirs
+
+Former-commit-id: 10d047e1e91f1202c662b2313ca4dc587a0c6475
+
+* Wrote more docs
+
+
+
+Former-commit-id: 183f2271a40b9f0a37158ee8a97fc096c13fa24a
+
+* Started writing stopwords checker
+
+
+
+Former-commit-id: 95090a42a4c0650a1879ee65405482e3918fcaec
+
+* Stopwords theoretically works and is efficient
+
+
+
+Former-commit-id: 87150256c5243abddf86e27bad3fd9b4752abbf0
+
+* Changed 1k words
+
+
+
+Former-commit-id: b7316f0b2eb0e57becbe61406cb0b0a1a1c7cade
+
+* Refactors
+
+
+
+Former-commit-id: ef3049b08a2a34e34f3e45dca244064e1308cc51
+
+* Updates to docs
+
+
+
+Former-commit-id: 2ab679d44cf566e4e350daaf4b4d8d3940006604
+
+* End of night
+
+
+
+Former-commit-id: 5dacd8bfbe91b185bf0d685056ef511d12c47148
+
+* Last push
+
+
+
+Former-commit-id: 55a3cb96f26cf19ff4bcceee288075205e4799e5
+
+* Made resources easier to obtain
+
+* Updates
+
+* Writing more Brandon Checker
+
+* Testing for best threshold of dict checker
+
+* Docs
+
+* Documentation + tests
+
+* More brandon checker stuff
+
+* More documentation
+
+* Made Windows Package Manager Manifest
+
+* Changelog additions
+
+* More changelog
+
+* Changelog
+
+* What
+
+* the iface is bad im sorry
+
+* Added
+
+* Fixed ciphey
+
+* Whoopsie
+
+* here u go broken code
+
+* less broken
+
+* It constructs
+
+* Adding windows and mac os testing
+
+* Removed automated tests
+
+* More git actions
+
+* yess
+
+* actions
+
+* Testing actions some more (sorry for the spam)
+
+* Nox
+
+* pls dont hate me
+
+* more CI
+
+* Added Pyinstaller settings file + the entry point needed
+
+* Updated Pyinstaller
+
+* Added packaging stuff
+
+* goodnight
+
+* Readme changes
+
+* More README updates
+
+* Fixing CI
+
+* README
+
+* One more
+
+* Switching branches
+
+* Updated readme to look at the pretty gif
+
+* readme update
+
+* Switching branches
+
+* Added quorum
+
+* Moved detectors to be only for encodings
+
+* Added discord group to contributing.md
+
+* Added discord links
+
+* ciphey-iface, now featuring ActuallyWorksNow (TM) technology
+
+* Now works even better
+
+* Updated readme
+
+* Some more optimisations
+
+* Added greppable back for *cowards*
+
+* README changes
+
+* Canonicalised handleDecodings
+
+* switchinbg branches
+
+* Made merge_dict
+
+* Whoops
+
+* README
+
+* changes
+
+* changes
+
+* pls github
+
+* REASME updates
+
+* READNE
+
+* README updates
+
+* README updates
+
+R
+
+* README updates
+
+* more updates
+
+* pls
+
+* Added reverse
+
+* Added initial csv work
+
+* I love python typing
+
+* README
+
+* BASE64 -> Base64. Complete -> compete
+
+* Update README.md
+
+* Update README.md
+
+* Some more tweaks
+
+* removed important.md
+
+* Update README.md
+
+* I broke main, Harlan said he will take a look tomorrow
+
+* Added Installation guide to README
+
+* Added CI to README
+
+* Reworked the README, I changed a lot :)
+
+* ReadTheDocs -> Docs.Ciphey.Online
+
+* Added new logo
+
+* Increased size of logo
+
+* Uploaded all lock pictures
+
+* Added thanks to designer
+
+* Update README.md
+
+* Update README.md
+
+* I am an idiot
+
+* Fixed registry bs
+
+* Added runs to steps in github action
+
+* Replaced github action with one from GitHub
+@
+
+* fixing poetry and nox issues
+
+* fixing nox
+
+* Added clickspinner to indicate running programing
+
+* Added AppDirs command to Main
+
+Now user can find out where ciphey expectst he settings file to be
+
+* Update README.md
+
+* Added important links section
+
+* Update README.md
+
+* Added installation guide to anothjer place
+
+* Update README.md
+
+* Almost finished args
+
+* Update README.md
+
+* That should work now
+
+* begone, tensorflow
+
+* Started PKGBuild & A*
+
+* Updated README with new downloads, more A* work
+
+* Update README.md
+
+* Turned important links into a table
+
+* more a star stuff
+
+* Before remake v1
+
+* A* node selection
+
+* A* finally works
+
+* Added comments to allow for easy modification
+
+* switching branches
+
+* Join brandon in
+
+* psuedocode for astar
+
+* fixing brandon checker
+
+* pls harlan fix#
+
+* Fixed brandon
+
+* That should be trace
+
+* fixed what to use bug
+
+* Various prodding
+
+* Working brandon
+
+* First RC
+
+Co-authored-by: Brandon <brandonskerritt51@gmail.com>
+Co-authored-by: Brandon <10378052+brandonskerritt@users.noreply.github.com>",['6f5d61056f68f847d36b851712c0ea05e19a33bd'],False,"['.github/config.yml', '.github/lock.yml', '.github/workflows/coverage.yml', None, '.github/workflows/tests2.yml', '.gitignore', 'CONTRIBUTING.md', 'PKGBUILD.proto', 'Pictures_for_README/apple.png', 'Pictures_for_README/arch.png', 'Pictures_for_README/binoculars.png', 'Pictures_for_README/ciphey_vs_cyberchef.gif', 'Pictures_for_README/lock1k1k.png', 'Pictures_for_README/lock250250.png', 'Pictures_for_README/lock_text_1k1k.png', 'Pictures_for_README/not_dying.gif', 'Pictures_for_README/python.png', 'Pictures_for_README/windows.png', 'README.md', 'ciphey.rb', 'ciphey/Decryptor/Encoding/ascii.py', None, None, 'ciphey/Decryptor/Encoding/encodingParent.py', None, 'ciphey/Decryptor/Encoding/letters.py', None, 'ciphey/Decryptor/Encoding/octal.py', 'ciphey/Decryptor/Hash/hashBuster.py', None, 'ciphey/Decryptor/basicEncryption/caesar.py', 'ciphey/Decryptor/basicEncryption/pigLatin.py', None, 'ciphey/Decryptor/basicEncryption/transposition.py', None, None, None, None, None, 'ciphey/__init__.py', 'ciphey/__main__.py', 'ciphey/basemods/Checkers/__init__.py', 'ciphey/basemods/Checkers/brandon.py', 'ciphey/basemods/Checkers/quorum.py', 'ciphey/basemods/Checkers/regex.py', 'ciphey/basemods/Crackers/__init__.py', 'ciphey/basemods/Crackers/caesar.py', 'ciphey/basemods/Crackers/vigenere.py', 'ciphey/basemods/Decoders/__init__.py', 'ciphey/basemods/Decoders/bases.py', 'ciphey/basemods/Decoders/morse.py', 'ciphey/basemods/Decoders/reverse.py', 'ciphey/basemods/Decoders/unicode.py', 'ciphey/basemods/Resources/__init__.py', 'ciphey/basemods/Resources/cipheydists.py', 'ciphey/basemods/Resources/files.py', 'ciphey/basemods/Searchers/__init__.py', 'ciphey/basemods/Searchers/astar.py', 'ciphey/basemods/Searchers/atar.md', 'ciphey/basemods/Searchers/ausearch.py', 'ciphey/basemods/Searchers/imperfection.py', 'ciphey/basemods/Searchers/perfection.py', 'ciphey/basemods/__init__.py', 'ciphey/common.py', 'ciphey/iface/__init__.py', 'ciphey/iface/_config.py', 'ciphey/iface/_fwd.py', 'ciphey/iface/_modules.py', 'ciphey/iface/_registry.py', 'ciphey/mathsHelper.py', None, 'cipheytreesearch.md', 'docs/changelog.md', 'docs/ciphers.rst', 'docs/config.rst', 'docs/features.rst', 'docs/howWork.rst', 'docs/lc2.rst', 'docs/privacy.rst', 'docs/settings.rst', 'entry_point.py', 'entry_point.spec', 'pyproject.toml', 'settings.yml', 'tests/brandon_interface.md', 'tests/dict.py', 'tests/enciphey.py', 'tests/integration.py', 'tests/speed_test.py', 'tests/test_encoding.py', 'tests/test_neuralNetwork.py', 'winget.yml']"
+0eb8034c88f96d982f4f960a9ce6097df0e98162,tried fixng docs,['32231b3cda05667126e0273bbaab4f8d4c3f9927'],False,"['docs/changelog.md', 'docs/ciphers.rst', 'docs/ciphey.Decryptor.Encoding.rst', 'docs/ciphey.Decryptor.Hash.rst', 'docs/ciphey.Decryptor.basicEncryption.rst', 'docs/ciphey.Decryptor.rst', 'docs/ciphey.basemods.Checkers.rst', 'docs/ciphey.basemods.Crackers.rst', 'docs/ciphey.basemods.Decoders.rst', 'docs/ciphey.basemods.Resources.rst', 'docs/ciphey.basemods.Searchers.rst', 'docs/ciphey.basemods.rst', 'docs/ciphey.iface.rst', 'docs/ciphey.neuralNetworkMod.rst', 'docs/ciphey.rst', 'docs/conf.py', 'docs/features.rst', 'docs/howWork.rst', 'docs/index.rst', 'docs/install.md', 'docs/install.rst', 'docs/lc2.rst', 'docs/modules.rst', 'docs/reference.rst', 'docs/settings.md', 'docs/settings.rst']"
+f5fa555190c2aa7a26575b5dadc62c22b89cd458,"Merge pull request #162 from Ciphey/iss158
+
+fixed issue 158 and 159","['0eb8034c88f96d982f4f960a9ce6097df0e98162', '6d04bbc68f66a54d473a7e4b416f02754abe82ea']",True,[]
+c1952586bcbfab8141f9252e9aabc03e8add578d,fixing CI,['31a6a1e4e9e690eddbe94cd6e36c2a21b8ab65e6'],False,"['ciphey/__main__.py', 'ciphey/basemods/Crackers/caesar.py', 'tests/speed_test.archive', None, 'tests/test_main.py', None]"
+ba1433178d0a03434068b41653096f3bf9bad385,temp fix to CI by renaming file,['c1952586bcbfab8141f9252e9aabc03e8add578d'],False,"['tests/main.py', 'tests/test_main.py']"
+085e9c52268435a142d31189f73ab41afb935de5,"Merge pull request #166 from Ciphey/fixingCI5.0
+
+fixing CI","['920249d83862858f535f2165f24af4d104a8690e', 'ba1433178d0a03434068b41653096f3bf9bad385']",True,[]
+788d0af2c12d26203baf93777a18f8ad57245be6,not sure why pytest is failing,['ba1433178d0a03434068b41653096f3bf9bad385'],False,"['ciphey/__main__.py', None, 'tests/test_main.py']"
+f361e801889cd6cd7ecee507c10cba94882017c8,Fixed #161 and #160,['788d0af2c12d26203baf93777a18f8ad57245be6'],False,"['ciphey/__init__.py', 'ciphey/__main__.py', 'ciphey/iface/_modules.py', 'tests/test_main.py']"
+5a35763167f9e722d0c396f5b879b62f9e66f488,Fixed readme and fixed import issues,['f361e801889cd6cd7ecee507c10cba94882017c8'],False,"['ciphey/__init__.py', 'ciphey/__main__.py', 'ciphey/ciphey.py', 'pyproject.toml']"
+d431a26efe098125a005c2cfefcacdea852ec10d,"Merge pull request #168 from Ciphey/iss161
+
+Fixed issues 161 and 160","['753aa7947773faad1df551a2dc49d4861d6b4d56', 'f361e801889cd6cd7ecee507c10cba94882017c8']",True,[]
+801e982b6e03fa200c49c9e2462c56f79c4c178d,"Merge pull request #169 from Ciphey/renameMain
+
+Fixed ReadMe & Import issues","['d431a26efe098125a005c2cfefcacdea852ec10d', '5a35763167f9e722d0c396f5b879b62f9e66f488']",True,[]
+1befd95c03be6bad0cc6bae7ab3d5a8126002dc8,fixing CI,['2c6425a01270c7d3ce085e212628e7ed45cfc34c'],False,['tests/test_main.py']
+e8a84971c54665e5575ac477e8a64d03207fd903,"Merge pull request #171 from Ciphey/fixingImportActions
+
+fixingImportActions","['74bf70bbf11d7c4ecc5c9ba3423f62f192abd200', '1befd95c03be6bad0cc6bae7ab3d5a8126002dc8']",True,[]
+2ce80a1152e03d8f0ea6b153fe8f64dd0d7d649d,Fixed octal,['b7767952b0f178a4ba3a57a9ecd4a43e181e987e'],False,"['ciphey/basemods/Decoders/octal.py', 'ciphey/iface/_config.py', 'ciphey/iface/_registry.py']"
+fe48e6154a3ee3ab39297bbcd4ec85e5f5b7fe99,Merge branch 'master' into fixingBrandonChecker,"['fd29aa32a3b061a26485cf9943aa0bb02b262dac', 'd71481c0bf75ec7d82c303e8e9225ac005f88b66']",True,[]
+6afed14b3d3a5050bbbec5ca50bf8e857ffe0ec6,"Merge pull request #175 from Ciphey/fixingBrandonChecker
+
+fixingBrandonChecker","['d71481c0bf75ec7d82c303e8e9225ac005f88b66', 'fe48e6154a3ee3ab39297bbcd4ec85e5f5b7fe99']",True,[]
+b04a63a8665808b79c32a6377cfa07de8f2f9ada,fixed appdirs issue,['6e31c329201bf2fc1810041b09689ab65a1f0a8b'],False,['ciphey/ciphey.py']
+e56994eb1b0e152471d42ad4bdc6315ddabbd9ce,fixingCI,['c25c1e3301a768c5f88a0d5114b8d69789349129'],False,"['ciphey/basemods/Resources/cipheydists.py', 'ciphey/basemods/Resources/files.py', 'pyproject.toml']"
+9c83057f475fe2a6882758140a1ade116d165a87,"Merge pull request #181 from Ciphey/fixingCI
+
+fixingCI","['55df5c682b6bbfaf236dfec2c18107fb88325bbf', 'e56994eb1b0e152471d42ad4bdc6315ddabbd9ce']",True,[]
+49938c01c85fb4744e60f78a6754607f6382f990,fixing CI,['e56994eb1b0e152471d42ad4bdc6315ddabbd9ce'],False,['ciphey/ciphey.py']
+cad022230200e8ffcc136ee7ec7abe918562a9cc,fixing CI,['dd2e98c03b214ec0f791e30d4b083040a8ce69e6'],False,[None]
+09e6bda56738e7b149dea05f89af48332d272e4c,"Removed useless imports in Ciphey.py, fixing CI",['cad022230200e8ffcc136ee7ec7abe918562a9cc'],False,"['ciphey/ciphey.py', 'tests/test_main.py']"
+26195dfe1f216c3d43d07b50279b64eb026f0c13,fixing pyproject,['842a3b4f65deb6fce4dd2233de23d56dd6d87f07'],False,['pyproject.toml']
+f1d6053ef2970a5251aebb9b2157ece997a55bb2,fixed register decorator causing classes to be NoneType,['6fb2d12a2c884e9b75831bb206f62c31c8ebcdf8'],False,['ciphey/iface/_registry.py']
+1f08790d6dbcb7f3f8baee41e7f600c085f10f90,Fixed cipheycore version,['52e951f3a2a6b5386a7f11b21fec3037c7e8f95e'],False,['pyproject.toml']
+d79a59dbc04f0be9f55f704b6a8305c99949b84f,Fixed cipheydists version,['1f08790d6dbcb7f3f8baee41e7f600c085f10f90'],False,['pyproject.toml']
+4b50916f42431c8f46708aef02f527d8d9cca058,Fixed silly ausearch omission,['d79a59dbc04f0be9f55f704b6a8305c99949b84f'],False,"['ciphey/basemods/Searchers/ausearch.py', 'ciphey/iface/_config.py', 'tests/test_main.py']"
+c1a50bbb213e389bd29d6241957f4606152d3509,Require cipheycore with fewer bugs,['06c23d9e516359a173be6d7b49fd284599f53f55'],False,['pyproject.toml']
+d795fcc87ab9fb045eda64fb3003c81b8e7e5877,Trying to fix tests,['1788e82ea8abce83e426bf96b108fa0d0d6dba1c'],False,['.github/workflows/tests2.yml']
+0b0011c0b01de3d4a35824bc50be68321c9d331a,"Merge pull request #220 from Ciphey/segfaults
+
+Fixed segfaults","['aaa2a67abe5098fac3f5f516e9b9612bed95a7aa', '4c11912933af33aa540ffd3de1dd980f80a1f04d']",True,[]
+01f8aa1e6ea1eba13c91528b90635336137b657e,Hopefully fixed windows ci,['891272299f10396892f85661bcba8c9f0bdd6ea4'],False,"['.all-contributorsrc', 'ciphey/ciphey.py', 'entry_point.py', 'entry_point.spec', 'noxfile.py', 'requirements.txt', 'tools/freq_analysis.py']"
+bedc340a1ce2f8b0b0040b6757f8adc1d900a1ef,Only CI for mac is broken,['8e122e716971d4cbe7ef3f95b0136ebf1f9318a1'],False,['.github/workflows/tests2.yml']
+7dca26d12547684a3637e3162c034040d00624c5,"cleaned up files, fixed new line, added test#",['8e22e500d5291fa686d52df2f47c234b6f469ba9'],False,"[None, 'ciphey/mathsHelper.py', None, None, 'requirements.txt', 'tests/test_main.py', None]"
+385d043e5d71ee0093e1b59bd00ffb39feafd55b,"Merge pull request #243 from Ciphey/bee-remove-newline
+
+cleaned up files, fixed new line, added test#","['5650b91d4caa7acd85c246c6ed394e18ae5a9b61', '3eabcb107fe06cdb043f27b3250b99779f8139d2']",True,[]
+504d3ed74b133046cba102119e290e9ab0af8ec8,"Merge pull request #244 from Ciphey/fix-doc-ref
+
+Update CONTRIBUTING.md","['385d043e5d71ee0093e1b59bd00ffb39feafd55b', 'ded581272f088842db726d9684c05c4b55088ba9']",True,[]
+c9082d94d7a7a2b5199c3eb681f8b7a16c0e651e,Fix atbash decoder,['ab99104b160578c0c977f4421d82cf0198c670e4'],False,['ciphey/basemods/Decoders/atbash.py']
+58804bc45f91069d61ea0e7d8c950e181223c8e8,Update bug_report.md,['c66bbe2a11b055ed940606f185573b8ee743b014'],False,['.github/ISSUE_TEMPLATE/bug_report.md']
+a51233a2ccd919121e49134526dccc36b7ac2c7b,Update bug_report.md,['58804bc45f91069d61ea0e7d8c950e181223c8e8'],False,['.github/ISSUE_TEMPLATE/bug_report.md']
+a8cad6ac8e0081a2759b6c1e9925a1f926b6e7e1,"Merge pull request #257 from Ciphey/brandonskerritt-patch-1
+
+Update bug_report.md","['c66bbe2a11b055ed940606f185573b8ee743b014', 'a51233a2ccd919121e49134526dccc36b7ac2c7b']",True,[]
+1c91359a9585d6cb3c7a2ddb3d07403be1f7e90e,Fix return values,['5c4be5c010b0bdb44b7cf8a7973839147e53c924'],False,['ciphey/basemods/Crackers/XandY.py']
+afb291bb01279ed96553b3cae5d210c36f514a35,Add failing test for X-Y edge case & github link,['417ed3361b7f3e28dd81e584023fdf7beb5f87e9'],False,['tests/test_main.py']
+aa44c3c6551a89806cb87357cf8d973103d84408,Fix Syntax Error,['4fb2a7a89552cf4e50c9dc3d1b558af3442f76a2'],False,['tests/test_main.py']
+c2f44c80b99b2c11ccf444288e902968e1afe50e,Fixed image,['c51c28de63e549a05fac5cf5607902ad9381825a'],False,"['Pictures_for_README/.gitattributes', 'Pictures_for_README/ciphey_gooder_cyberchef.gif', None, 'README.md']"
+a26abe0da2794efea00694fc32cd1554374f4e71,"Merge pull request #267 from Ciphey/fix-img
+
+Fixed image in readme","['c51c28de63e549a05fac5cf5607902ad9381825a', 'c2f44c80b99b2c11ccf444288e902968e1afe50e']",True,[]
+f88407c71fff6eb79aa9f012efbfa83fbfb7b2e2,"Fixed Indonesian Language Code in main README.md
+
+IN to ID",['4cf7c7abd158db6812e6be0410625148a669291a'],False,['README.md']
+0f268e64b4627ebedf2f52c0e5b7663f0ef7caa7,Fixing #271,['71480a0f1698b14a6c5d4ac30273ebafd494c82b'],False,['ciphey/ciphey.py']
+da3537801e543ae412ee39d011d848d0377a4cd5,fix old green bug,['5048b5c6a3bd129d1b3a1292fb710431f1c8e3e8'],False,"['ciphey/iface/_modules.py', 'test_base64.txt']"
+2f7b8e95788d381e566e45fe5fccc20526dbc39f,fixed old red,['da3537801e543ae412ee39d011d848d0377a4cd5'],False,['ciphey/ciphey.py']
+fb67114acf0dd2440fe2a9a668fb06c412452c4e,Merge branch 'master' into bee-fix-old-green,"['2f7b8e95788d381e566e45fe5fccc20526dbc39f', 'bbf024e8065a02a8c4d831dbb4a5399f1f8e7a05']",True,[]
+816a602420f0925a3f9f9c355ffddf7c3dfa00dd,"Fix complication in galactic decoder
+
+Fix complication in galactic decoder that caused whitespaces to be removed in otherwise unmodified output",['c79ef4535f65537b75f36344253bb78bfac21e79'],False,['ciphey/basemods/Decoders/galactic.py']
+0f7abb05cef38425e9f0b5f68cde3e8a566b9018,Merge branch 'master' into bee-fix-old-green,"['fb67114acf0dd2440fe2a9a668fb06c412452c4e', '1afc9547a6cb997e6a1527e43394de6ed38c7ccb']",True,[]
+1a7e74d4638c6610af5a217c58e452b47f0baff2,"Merge pull request #275 from Ciphey/bee-fix-old-green
+
+fix old green bug","['1afc9547a6cb997e6a1527e43394de6ed38c7ccb', '0f7abb05cef38425e9f0b5f68cde3e8a566b9018']",True,[]
+2c23c7e5d9f3fe18859279865542d6460eb31482,"Merge pull request #273 from Ciphey/brandonskerritt-patch-2
+
+Fix broken URl in readme","['1a7e74d4638c6610af5a217c58e452b47f0baff2', '95a2499e287d7230c871a1d7c1c34d8b7d536adc']",True,[]
+f25f4c9ecb4057a957bb131c6aada19e1f93d2d0,Fix syntax error,['0e752a4887da49aed24fbd02ba50ede9c372362f'],False,['tests/lukas.py']
+1032ffb083ec8ce693abf46eb7693f9bfef6211f,Fix invalid JSON,['8e6e629d16d4b30639a5e7603d867b386d058e99'],False,['.all-contributorsrc']
+06839ca66886e5a91c045e2e79b678157d5b4006,Fixed casting for p values,['8e6e629d16d4b30639a5e7603d867b386d058e99'],False,"['ciphey/basemods/Crackers/caesar.py', 'ciphey/basemods/Crackers/vigenere.py']"
+e0bd5a7046b22c3465f2175ea22bffe7e1c56572,"Merge pull request #288 from Ciphey/lukasgabriel-fix-allcontributors
+
+Fix invalid JSON","['8e6e629d16d4b30639a5e7603d867b386d058e99', '1032ffb083ec8ce693abf46eb7693f9bfef6211f']",True,[]
+57cbe8de6ee37da04c21e84b779e73311033fccf,Fixed #291,['e0bd5a7046b22c3465f2175ea22bffe7e1c56572'],False,"['ciphey/basemods/Crackers/caesar.py', 'ciphey/basemods/Crackers/vigenere.py', 'ciphey/basemods/Decoders/atbash.py', 'ciphey/common.py']"
+fa6ea5f7ffabc0ffc2056e87cf4eaaea45ee6d5a,"Merge pull request #290 from Ciphey/num-params
+
+Fixed casting for p values","['ab59d90ac4fb31664bb7d7be5f5b89cd9b93f481', 'c46b464059c65d09ca7fd3ad78805147a38f6ef3']",True,[]
+399e298d3ec6eb4bc9e3c5a4553fcab56aac0493,All cases are now fixed (I think),['ef93ac8cc05bc75648a5e6b25bc855e5461048f6'],False,"['ciphey/basemods/Crackers/vigenere.py', 'ciphey/basemods/Searchers/ausearch.py', 'ciphey/common.py', 'tests/test_main.py']"
+982bb777162b823685a3c477c393f1240609c118,"Merge pull request #294 from Ciphey/case-preservation
+
+Fixed #291","['044ca0ba7068c4ecafbbab5c9cca31479b09fa17', '320d7ac34ef334ed3a730e54aebd1637f955d7a6']",True,[]
+36d73be6c83a4a36bc1be692cb2c93f9b2e2801b,"Add german docs (#306)
+
+* Include link to german translation
+
+* Add german translation of README
+
+* Update indonesian README
+
+Update indonesian README to include docker installation help & a link to the german README translation
+
+* Fix images
+
+Fix images by converting relative links to absolute ones
+
+* Create CONTRIBUTING.md
+
+To be translated
+
+* Fix GIF
+
+* Add german translation of the contrib file
+
+* Add german translation of CODE_OF_CONDUCT
+
+* Add contact detail
+
+* Replace masculinum with gender-neutral wording
+
+* Add link to german CODE_OF_CONDUCT
+
+* Update CONTRIBUTING.md",['818b7b9aba68b9e7dd9574ec6bf96d14c642d4d7'],False,"['README.md', 'translations/de/CODE_OF_CONDUCT.de.md', 'translations/de/CONTRIBUTING.md', 'translations/de/README.md', 'translations/id/CODE_OF_CONDUCT.id.md', 'translations/id/README.md']"
+0558816635ddd4e22b9362ed7bb05b4c42e35f6d,Fix GIF,['36d73be6c83a4a36bc1be692cb2c93f9b2e2801b'],False,['translations/de/README.md']
+9ad0058278f12f64f47b98411a9ead88831af640,Fix bug with ASCII table,['735273fb7a7e71520fd2b0974833adb94293adca'],False,['tests/lukas.py']
+0fd6639a80c17c2fd34715a9b061536753a3efdb,"Fix ctext replacement bug
+
+Fix ctext replacement bug doe to missing re-assignment of the ctext variable.",['997db87018fc5aaa5307e44dcd82f144a3a40992'],False,['ciphey/basemods/Crackers/XandY.py']
+4be5773fc7f2ca7285ed56300a94fd4197ac9d7d,"Merge pull request #308 from Ciphey/lukasgabriel-patch-1
+
+Fix GIF","['e1367dde6b0b6c87ca04a054e88c3abfb9e2130e', '054a3dabf0e6456aece16aa3fb32306f9b67a5b3']",True,[]
+5a07aaf0eb8f009bbe511db603372b6d560635c5,fixed base62 decoding,['4be5773fc7f2ca7285ed56300a94fd4197ac9d7d'],False,"['ciphey/basemods/Decoders/base62.py', 'pyproject.toml']"
+e755fc926549494e9f7aa5898db274504f6c3d1e,Merge branch 'master' into bee-fix-310,"['5a07aaf0eb8f009bbe511db603372b6d560635c5', 'b2858def123c572453c3213f6001a75acf53ffd8']",True,[]
+aff9e6f6a7c98cde1ee7f160a4a2a70e4440a22f,"Merge pull request #311 from Ciphey/bee-fix-310
+
+fixed base62 decoding","['b2858def123c572453c3213f6001a75acf53ffd8', 'e755fc926549494e9f7aa5898db274504f6c3d1e']",True,[]
+f9c91c25527155d491a62681c3cad5786a78d65f,Fix Base62 and Base91 tests,['d0ee77d83f8111234e667795c3b450b7d6ffc12e'],False,['tests/test_main.py']
+c0ac9fcbc4dcbe7f0ba00c7035f62be10b3dc252,"Merge pull request #313 from SkeletalDemise/master
+
+Fix Base62 and Base91 tests","['d0ee77d83f8111234e667795c3b450b7d6ffc12e', 'f9c91c25527155d491a62681c3cad5786a78d65f']",True,[]
+d8e4658e051ec5934c8925a778158272fd79683f,Maybe they'll read the bug report now.,['6451bcde32ea77bfd7f58985f4721693ba145056'],False,['.github/ISSUE_TEMPLATE/bug_report.md']
+4961a9d1132115edcc077ed6882313a860fe3617,"Merge pull request #318 from Ciphey/brandonskerritt-patch-3
+
+Maybe they'll read the bug report now.","['6451bcde32ea77bfd7f58985f4721693ba145056', 'ff742d58ec15bb8089243a18094aa34d5e9a9105']",True,[]
+f50cd4cdd2b7dd80e0cc44a401d6ad806913a637,"Fix decoding error
+
+Fix decoding error caused by translation error between Uint8Array and list",['4780997ee78a32cfb238ba85a957830282736f3d'],False,"['ciphey/basemods/Decoders/base69.py', None]"
+a4d7fbfe36f1183eae9c4739115b3fd6ffda5b4a,Fix typo,['28f47c6e8cbb98b77b13031933b41df9ef0d2534'],False,['tests/test_main.py']
+f3e6407578754057b7ea7e46535c71bd0df6c0c2,"Merge pull request #332 from Ciphey/disable-nested
+
+Disabled nested encryption (fixes #327)","['dbf0657913e716e15f4f34cc4e5cbd2e24833247', '1970a56553522eb21da0baef1d179429bc81646c']",True,[]
+fd925db8ddbd5959012f1a72fa75aab2d40b63cf,xor ciphers are all fine with no problems whatsover,['0972fd66c079e5221fb8bfb0a18b3beb8a9a03b1'],False,['ciphey/basemods/Searchers/ausearch.py']
+b426cc979320f4ad3bad41ad23d6da4b8f1c4104,Wrap decoder in try-except to catch weird errors,['0a335085b01af8e2fa926ea7a7a8e4f84c7235f8'],False,['ciphey/basemods/Decoders/base69.py']
+0b90301dbd8a81c83dd9ebc476b467dc0b99d84f,Fix init merge,['fed89e5191ea7104b763a197acec0f6419361c13'],False,['ciphey/basemods/Decoders/__init__.py']
+17d4e8e7fd70767ad7d8e054bff2affb1823e6f7,Fix readme,['7cf4ea873255a33f0ac1e0852fb35cd4cfbc3441'],False,['README.md']
+ad90b6edbceeee4c74da7b3f917607261023d219,"remove codacy badge
+
+failed experiment fun",['7cf4ea873255a33f0ac1e0852fb35cd4cfbc3441'],False,['README.md']
+863701bfdc0d1a495f4e36067b558bc1f178d6b2,"Merge pull request #378 from Ciphey/skeletal-fix-readme
+
+Fix readme","['3c14cb4a2b4492c153db3399e9565629f88a7f97', '17d4e8e7fd70767ad7d8e054bff2affb1823e6f7']",True,[]
+172472e457a9e15db204901d14cddf09bdd529a8,Fixed byte typing,['9f081a8fbaa9e315387285d642cc3827d6a8a2d8'],False,"['ciphey/basemods/Searchers/ausearch.py', 'ciphey/ciphey.py', 'ciphey/iface/_config.py']"
+775fabec839c63c46e3bf5a3febf6f74d87246c9,"Merge pull request #385 from Ciphey/fix-types
+
+Fixed byte typing","['9f081a8fbaa9e315387285d642cc3827d6a8a2d8', 'dfa772437c70b43f9904cc1985ab555e354d9f6f']",True,[]
+1a3c1a057bdb11df105491e2426c16646dced71b,fixed 389,['775fabec839c63c46e3bf5a3febf6f74d87246c9'],False,['ciphey/basemods/Checkers/format.py']
+2ed33227931ac9fb04b34a80169d5b25eb005305,fixed brandon checker,['775fabec839c63c46e3bf5a3febf6f74d87246c9'],False,"['ciphey/basemods/Checkers/brandon.py', 'ciphey/basemods/Checkers/gtest.py', None, 'requirements.txt']"
+0fb4d8b6abe9d43f62efe6371101d41e0a09e2c9,fixed test,['194b4bc2c45d64d8e08fca8de50c11c8b9d2629c'],False,"['requirements.txt', 'tests/test_main.py']"
+2a5e6f2560d035cfec5dbae45601d2146fabeec2,"Merge pull request #392 from Ciphey/bee-389
+
+fixed 389","['b941f546f00a175d6396d0886a59b2054958c5e4', '5e51238419580897c186a67f6ae0ec38f1d6c4e9']",True,[]
+0624c4a7cf7687a3ce69bd629fd65e55ee660dc2,Fixed byte issue,['775fabec839c63c46e3bf5a3febf6f74d87246c9'],False,['ciphey/ciphey.py']
+45021f8f21b23eba50f27483210c88ec5fa34606,"Merge pull request #397 from Ciphey/ohnoimessedup
+
+Fixed byte issue","['2a5e6f2560d035cfec5dbae45601d2146fabeec2', '3097c828d898566c76bebd4e01d015fcd8c95283']",True,[]
+7334614bbc29c8064f7a1172208e1d2e0d158ea7,Fixed morse,['2f2644dd1978963216c533e0d355928d98289538'],False,['ciphey/basemods/Decoders/morse.py']
+cb456ac9e8e2916e9e86cd05adfc54d5698878e7,"Merge pull request #405 from Ciphey/fix-morse
+
+Fixed morse","['2f2644dd1978963216c533e0d355928d98289538', '7334614bbc29c8064f7a1172208e1d2e0d158ea7']",True,[]
+a322ba1d7af3553ab0a4b9c18a4563afd05b7271,Fix issues,['1b52989b5dcd3b87ff2eff262dc22e7951be7eb1'],False,['ciphey/basemods/Decoders/url.py']
+cd0ef969bbecb802f0db21ae38e14ddeb49abb31,Fixed broken image links,['9f4ef265926f5a5b14704a62b19f9d8d5d91a2d9'],False,['translations/hu/README.md']
+920dcfd41544f95dc193b1c5033874058b8b9227,Fixed gif link in HU translation,['08c23850a5e7176afd2df9e0ae7b1d8d471cee0c'],False,['translations/hu/README.md']
+a47cf4b06881b32bb39d5d5b39ce0c9f122f5a1f,"Merge pull request #423 from TuxTheXplorer/master
+
+Fixed gif link in HU translation","['08c23850a5e7176afd2df9e0ae7b1d8d471cee0c', '920dcfd41544f95dc193b1c5033874058b8b9227']",True,[]
+453a4ca3122ee55554ea2c3e23f2e658274ee483,Fix more links,['8c86683e9cf0d03b5b84570bc02c8c5d6c8fe6d4'],False,['translations/id/README.md']
+c907b4d0f0f499dc344aab8b0ec2a84ed06bc6a3,Fix more doc links,['453a4ca3122ee55554ea2c3e23f2e658274ee483'],False,['translations/hu/CONTRIBUTING.md']
+5904a289265700e0f592d9e1b675209aa3ea023e,Fix links and grammar changes,['25ac7759e362eb90dfbbf09d31383b8f5cc49ebc'],False,['CONTRIBUTING.md']
+fc854ecf37b688832f25cdec094bcada739bfae3,"Object is not subscriptable error fix (#440)
+
+* fix object is not subscriptable error
+
+* added test for brandon
+
+Co-authored-by: Bee <10378052+bee-san@users.noreply.github.com>",['b80af26bbb3b3c0d70193f7d0b4f79c37cadb9ea'],False,"['ciphey/basemods/Checkers/brandon.py', 'tests/test_main.py']"
+34ac0eb660cc5ee1ffa3f5ffb1bc6acac3e5bf46,Fix typo - Squash me please,['a07f479adf40a10004731134c03ae7c44d84c717'],False,['README.md']
+ef47ef4849a6af6eb83eae8dabd140a856e5e853,set fail fast to false,['afaf9d606e560ffb7c175e83e2ccc789e0d5d412'],False,['.github/workflows/terminaltest.yml']
+4c1c6aa65407a567bf43dca22ca7059552d82b4c,Fixed Broken Link on RU translation,['59f5d04e83456b8f79d31be57916ffa236b3adf9'],False,['README.md']
+baf2e6967d703cc833f462fbf110ca20b2dc62b9,"Merge pull request #453 from HexChaos/patch-2
+
+Fixed Broken Link on RU translation","['59f5d04e83456b8f79d31be57916ffa236b3adf9', '4c1c6aa65407a567bf43dca22ca7059552d82b4c']",True,[]
+ba63ff7f239fc6ef0a34e192a637ad01219d4442,"Fixed Russian Translation Link
+
+This way the readme loads rather than go to 404 page.",['a3c4d4a825abea45f85e2828db2a5116bd6d5e34'],False,['README.md']
+51e95398033e90733eddedc6b159af57db470e88,"Merge pull request #464 from HexChaos/patch-3
+
+Fixed Russian Translation Link","['a3c4d4a825abea45f85e2828db2a5116bd6d5e34', '8056148887ed73ee2b5fa1bc68c9cbeaaa53d3d2']",True,[]
+54e98eb2a9e548b252bdb7267162f3697daa619d,"Grammar fix for Features
+
+`Whether that plaintext is JSON, a CTF flag, or English, Ciphey can get it in a couple of milliseconds.` was previously somewhat unclear. I have added commas to improve the clarity.",['cad32900585d32995d5fb23623ef5c1aa54a2ec3'],False,['README.md']
+135812845349789e841aafd0788dd8edb8d5ea23,"Merge pull request #468 from NinjaJc01/patch-1
+
+Grammar fix for Features","['cad32900585d32995d5fb23623ef5c1aa54a2ec3', '54e98eb2a9e548b252bdb7267162f3697daa619d']",True,[]
+a95782916b025d6082daf2457563b9faa7cab648,"removed tap_code test by mistake. fixed.
+
+re-added test_tap_code()
+
+removed tap_code test by mistake, should be fixed.",['863103d35bc935c895c781aa6587e532319064a0'],False,"['ciphey/basemods/Decoders/__init__.py', 'tests/test_main.py']"
+ca9335d47a745f55910337cdb75821860bffcd38,readme/zh: fix links and adjust some words,['5368377bc3ecad6deef1e26aca5dfddb7e2fc6c2'],False,['translations/zh/README.md']
+f21ff7b3720a0718a845759bd0b7122be8dfc108,"Merge pull request #482 from imba-tjd/patch-2
+
+readme/zh: fix links and adjust some words","['5368377bc3ecad6deef1e26aca5dfddb7e2fc6c2', 'ca9335d47a745f55910337cdb75821860bffcd38']",True,[]
+bd536c4dc0dc901ee246d165e6adf356b1dd6e6a,"Fix spelling mistakes, remove unused variables",['0907742df9192c5dedfbae47638787440537ab7b'],False,['ciphey/basemods/Crackers/affine.py']
+27286c9b048bb1ee614a21d47f5e84bc0ee9c2ef,support for decode without the begin prefix and end suffix,['b563d502884062d31b550310d2c499de7e157ff8'],False,"['ciphey/basemods/Decoders/uuencode.py', 'tests/test_main.py']"
+c6ad8986568b4ff29fe68fb9bf5c2f104b15f034,"Fix case of translated text, add some more comments",['3e1234e43d0187cb9837fe05262de16e0d4337eb'],False,['ciphey/basemods/Crackers/affine.py']
+0b7a20d39126cecf415d79fdabb1cc0a788493d4,"Added CONTRIBUTING.md translation
+
+Added CONTRIBUTING.md translation and fixed some things.",['f433a9502794e0066f041a70fa2b8bb86aa51868'],False,"['CONTRIBUTING.md', 'translations/it/CODE_OF_CONDUCT.md', 'translations/it/CONTRIBUTING.md']"
+cae1cb84dde4204c4a5b0c0f5e99f5d55c2e88ef,"Fix typo, add lowercase alphabet",['9399cdedb666dbf93073d9d9c63ebffef1a976eb'],False,['ciphey/basemods/Crackers/affine.py']
+51bf4b0884e91c163fb8f92f85438061e736ea8d,Fixed some things,['0b7a20d39126cecf415d79fdabb1cc0a788493d4'],False,"['CODE_OF_CONDUCT.md', 'CONTRIBUTING.md', 'README.md', 'translations/de/CODE_OF_CONDUCT.de.md', 'translations/fr/README.md', 'translations/hu/CODE_OF_CONDUCT.md', 'translations/hu/CONTRIBUTING.md', 'translations/id/CONTRIBUTING.md', 'translations/id/README.md', 'translations/nl/CODE_OF_CONDUCT.md', 'translations/nl/CONTRIBUTING.md', 'translations/nl/README.md', 'translations/pt-br/CODE_OF_CONDUCT.md', 'translations/pt-br/CONTRIBUTING.md', 'translations/pt-br/README.md', 'translations/ru/CODE_OF_CONDUCT.md', 'translations/ru/CONTRIBUTING.md', 'translations/ru/README.md', 'translations/zh/CODE_OF_CONDUCT.md', 'translations/zh/CONTRIBUTING.md', 'translations/zh/README.md']"
+c631b52df83ab698a94e6d400872e0e0f2f38f15,"Merge pull request #488 from blackcat-917/master
+
+Added CODE_OF_CONDUCT.md translation and fixed some things","['069213e5e0d0429f96f4dee18720fe9601faf3bb', '279fc0694dd6e7e219b9f54add015014391d2f39']",True,[]
+7da61dbe68e55e24efeac56238ffde09ee929d65,Fix Soundex,['d5f36c989dbb366962ba8080fac96955bd3216ab'],False,['ciphey/basemods/Crackers/soundex.py']
+93322cfdc0836292bfe6f716ec123f14adf81a27,"Fix issue #262 - 'x' surrounded by letters in Galactic Alphabet Decoder
+
+- also modify corresponding test case
+- and move comments describing code above it",['a928136ac2a8f4a7b19371a0439e732a2bc13710'],False,"['ciphey/basemods/Decoders/galactic.py', 'tests/test_main.py']"
+044a124cd48fbd684be139a4730bac6aec8abba6,"Merge pull request #501 from cryptobadger/master
+
+Fix issue #262 - 'x' surrounded by letters in Galactic Alphabet Decoder","['a928136ac2a8f4a7b19371a0439e732a2bc13710', '93322cfdc0836292bfe6f716ec123f14adf81a27']",True,[]
+5544e945c591d063a2541fd40991c1f81b729575,"Code cleanup (#510)
+
+* Code cleanup
+
+* Rename base58.py to base58_bitcoin.py
+
+* Bump CipheyCore and CipheyDists
+
+* Update __init__.py
+
+* Fix import error
+
+* Fix error
+
+* Fix decoder error
+
+* Fix import error
+
+* Fix type error
+
+* Fix bytes error
+
+* Fix attribute error
+
+* Fix XandY cracker
+
+* Fix brandon test
+
+* Fix leetspeak test
+
+* Update and rename leet.py to leetspeak.py
+
+* Update and rename morse.py to morse_code.py
+
+* Update __init__.py",['3721f91ce03c55ccc7455818be21923ad0e5006d'],False,"['ciphey/__init__.py', 'ciphey/basemods/Checkers/__init__.py', 'ciphey/basemods/Checkers/any.py', 'ciphey/basemods/Checkers/brandon.py', 'ciphey/basemods/Checkers/entropy.py', 'ciphey/basemods/Checkers/ezcheck.py', 'ciphey/basemods/Checkers/format.py', 'ciphey/basemods/Checkers/gtest.py', 'ciphey/basemods/Checkers/human.py', 'ciphey/basemods/Checkers/quorum.py', 'ciphey/basemods/Checkers/regex.py', None, 'ciphey/basemods/Crackers/__init__.py', 'ciphey/basemods/Crackers/affine.py', 'ciphey/basemods/Crackers/ascii_shift.py', 'ciphey/basemods/Crackers/caesar.py', 'ciphey/basemods/Crackers/hash.py', 'ciphey/basemods/Crackers/rot47.py', 'ciphey/basemods/Crackers/vigenere.py', 'ciphey/basemods/Crackers/xandy.py', 'ciphey/basemods/Crackers/xor_single.py', 'ciphey/basemods/Crackers/xorcrypt.py', 'ciphey/basemods/Decoders/__init__.py', 'ciphey/basemods/Decoders/a1z26.py', 'ciphey/basemods/Decoders/atbash.py', 'ciphey/basemods/Decoders/base58_bitcoin.py', 'ciphey/basemods/Decoders/base58_flickr.py', 'ciphey/basemods/Decoders/base58_ripple.py', 'ciphey/basemods/Decoders/base62.py', 'ciphey/basemods/Decoders/base64_url.py', 'ciphey/basemods/Decoders/base65536.py', 'ciphey/basemods/Decoders/base69.py', 'ciphey/basemods/Decoders/base91.py', 'ciphey/basemods/Decoders/bases.py', 'ciphey/basemods/Decoders/baudot.py', 'ciphey/basemods/Decoders/binary.py', 'ciphey/basemods/Decoders/brainfuck.py', 'ciphey/basemods/Decoders/decimal.py', 'ciphey/basemods/Decoders/dna.py', 'ciphey/basemods/Decoders/dtmf.py', 'ciphey/basemods/Decoders/galactic.py', 'ciphey/basemods/Decoders/hexadecimal.py', 'ciphey/basemods/Decoders/leetspeak.py', 'ciphey/basemods/Decoders/morse_code.py', 'ciphey/basemods/Decoders/multi_tap.py', 'ciphey/basemods/Decoders/octal.py', 'ciphey/basemods/Decoders/reverse.py', 'ciphey/basemods/Decoders/tap_code.py', 'ciphey/basemods/Decoders/unicode.py', 'ciphey/basemods/Decoders/url.py', 'ciphey/basemods/Decoders/uuencode.py', 'ciphey/basemods/Decoders/z85.py', 'ciphey/basemods/Resources/cipheydists.py', 'ciphey/basemods/Resources/files.py', 'ciphey/basemods/Searchers/astar.py', 'ciphey/basemods/Searchers/ausearch.py', 'ciphey/basemods/Searchers/imperfection.py', 'ciphey/basemods/Searchers/perfection.py', 'ciphey/ciphey.py', 'ciphey/common.py', 'ciphey/iface/__init__.py', 'ciphey/iface/_config.py', 'ciphey/iface/_modules.py', 'ciphey/iface/_registry.py', 'ciphey/mathsHelper.py', 'noxfile.py', 'pyproject.toml', 'tests/brandon_interface.md', 'tests/dict.py', 'tests/enciphey.py', 'tests/generate_tests.py', 'tests/integration.py', 'tests/lukas.py', 'tests/test_main.py', 'tools/freq_analysis.py']"
+2cbbf46c9de7bd345c2f4b3b8a9eac356c7fe54f,"Improved READMEs (#521)
+
+* Updated translation section
+
+* Update README.md
+
+* Fixed broken links
+
+* Fixed a naming issue
+
+* Added a ""Translations"" section in CODE_OF_CONDUCT.md and CONTRIBUTING.md
+
+* Corrected two things
+
+* Fixed some images broken links
+
+Also modified README.md to avoid the creation of other broken links",['1e43237ce0f77044910e85e99ba2b34aaf300be6'],False,"['CONTRIBUTING.md', 'README.md', 'translations/de/CODE_OF_CONDUCT.md', 'translations/de/CONTRIBUTING.md', 'translations/de/README.md', 'translations/fr/README.md', 'translations/hu/CODE_OF_CONDUCT.md', 'translations/hu/CONTRIBUTING.md', 'translations/hu/README.md', 'translations/id/CODE_OF_CONDUCT.md', 'translations/id/CONTRIBUTING.md', 'translations/id/README.md', 'translations/it/CODE_OF_CONDUCT.md', 'translations/it/CONTRIBUTING.md', 'translations/it/README.md', 'translations/nl/CODE_OF_CONDUCT.md', 'translations/nl/CONTRIBUTING.md', 'translations/nl/README.md', 'translations/pt-br/CODE_OF_CONDUCT.md', 'translations/pt-br/CONTRIBUTING.md', 'translations/pt-br/README.md', 'translations/ru/CODE_OF_CONDUCT.md', 'translations/ru/CONTRIBUTING.md', 'translations/ru/README.md', 'translations/zh/CODE_OF_CONDUCT.md', 'translations/zh/CONTRIBUTING.md', 'translations/zh/README.md']"
+b29683c784a60ace7feafc58bfa3b2406600dbd9,"fix can't exit ciphey (#526)
+
+* Update ciphey.py
+
+* Update ciphey.py",['638cba7669d5682e6ad7ee7adfc6fa429f429c4f'],False,['ciphey/ciphey.py']
+345d15021b7e2ce3cb00cacea132e40c93294afa,"Fixed some stuff with ausearch and bases (#528)
+
+* Fixed some stuff with ausearch and bases
+
+* Removing *all* whitespace from base decodings
+
+* Fix main
+
+* Reverting ausearch fixes to get this to work",['29a1be182bbdaf7471227717c815cd1723b34250'],False,"['ciphey/basemods/Decoders/bases.py', 'ciphey/ciphey.py']"
+968326dc0cc32cc8e6c6e1b017c7d3f968106db4,"feature: braille decoder
+
+* fixed bugs
+
+* fixed bug with comma",['345d15021b7e2ce3cb00cacea132e40c93294afa'],False,"['ciphey/basemods/Decoders/__init__.py', 'ciphey/basemods/Decoders/braille.py', 'tests/test_main.py']"
+baeb2721a35f7a488a037af75269a04d185eec57,fixed bug with two commas,['968326dc0cc32cc8e6c6e1b017c7d3f968106db4'],False,['ciphey/basemods/Decoders/braille.py']
+e890a4dcd4d403649b6646c95853150dc37a3fb9,Merge branch 'master' into braille-issue-439,"['baeb2721a35f7a488a037af75269a04d185eec57', '855e827a0932a788ba916b397c537211c9425e4d']",True,[]
+c4fca81f00db02320d8b626a348bf9af5ff08c8e,Fix Braille test,['e890a4dcd4d403649b6646c95853150dc37a3fb9'],False,['tests/test_main.py']
+7b2469aeba5131f687f0bb6914d5a13dda5f96d3,"Merge pull request #462 from rogercyyu/braille-issue-439
+
+Add Braille (Grade 1)","['855e827a0932a788ba916b397c537211c9425e4d', 'b06e3a0dd66d7a06f8f1acaa9ff51ffd8ce60800']",True,[]
+ae1bf300e06f3fedb12950c8541d4dc8a87c4b8c,Fix critical error,['c941f2d216e752be58b9ca69480206c315c64748'],False,['ciphey/ciphey.py']
+65e331d85fb5c254bcda6510cac53342a966d694,Merge branch 'master' into skeletal-fix-critical-bug,"['ae1bf300e06f3fedb12950c8541d4dc8a87c4b8c', '8e3e1f1ee9450b6333a33bf2ec9ce70f113d57ff']",True,[]
+b234a159b5fac3574dd92e66a03e2366eef76232,Fix nox,['0149e1023945537098cf4d25294af3b4ee18206a'],False,['noxfile.py']
+279fc60cd3b89097a33906a4c8f4028d797537ba,"Merge pull request #576 from Ciphey/fixing-ci
+
+Remove requirements and safety","['8e3e1f1ee9450b6333a33bf2ec9ce70f113d57ff', 'b234a159b5fac3574dd92e66a03e2366eef76232']",True,[]
+d5b1deca485c575368254caa8cd39b6e112c6dcd,Merge branch 'master' into skeletal-fix-critical-bug,"['65e331d85fb5c254bcda6510cac53342a966d694', '279fc60cd3b89097a33906a4c8f4028d797537ba']",True,[]
+4db433ded9196ec1d2e17f86b68c3f89e7d50d2a,"Merge pull request #553 from Ciphey/skeletal-fix-critical-bug
+
+Fix critical error","['279fc60cd3b89097a33906a4c8f4028d797537ba', '0556b4fbd2a24006aadad53807f4a538e315a26a']",True,[]
+63baca0e5ab197c91608fc0936512bfe26304d18,"Support Python 3.9 (Fix #558)
+
+This issue was already raised on https://bugs.python.org/issue36517,
+adding a TODO to consider going back to Generic[T] once this is solved.",['d021b40672010f9a9f4af25b0e73452d4fbec23c'],False,['ciphey/iface/_modules.py']
+2249720ed5ed95a6a983667f3cb6f717233e9e8b,Merge branch 'master' into fix-python-3.9,"['63baca0e5ab197c91608fc0936512bfe26304d18', '2bc2acac9983cdc6bb4955b00110e166e5e58b71']",True,[]
+19ef4569d289f3cc0842223239bb48c57682ce12,"Merge pull request #586 from JesseEmond/fix-python-3.9
+
+Support Python 3.9 (Fix #558)","['2bc2acac9983cdc6bb4955b00110e166e5e58b71', 'c3f0699fcef84446a93e31aa3897ff80f7c2e77c']",True,[]
+b61c64d61d7da9f5d73f22a0a0da86e3d62cf06e,Broken badge,['63cac4ded01e31c0ac5d08975a118fbc35b61243'],False,['README.md']
+1ebec53cf505dd6eac770cdf15fa0c6e596b5001,"Merge pull request #596 from Ciphey/bee-san-patch-1
+
+Broken badge","['63cac4ded01e31c0ac5d08975a118fbc35b61243', 'b61c64d61d7da9f5d73f22a0a0da86e3d62cf06e']",True,[]
+f7d21ce0993eeff0b53cec8717dfbd8f8419f8f5,"Bee fix ausearch (#603)
+
+* Fixing ausearch
+
+* changed stepres
+
+* this works
+
+* blacked
+
+* No more cipheycore in ausearch",['1ebec53cf505dd6eac770cdf15fa0c6e596b5001'],False,"['ciphey/basemods/Searchers/ausearch.py', 'tests/test_main.py']"
+d46105bae1c54c79761a736ea7712aa4c9f88afb,"Revert ""Bee fix ausearch (#603)"" (#613)
+
+This reverts commit f7d21ce0993eeff0b53cec8717dfbd8f8419f8f5.",['fd1c720ee511a7d81141effeeee4a1b218959d84'],False,"['ciphey/basemods/Searchers/ausearch.py', 'tests/test_main.py']"
+35f2e3beee3998c91443c092c89bc446401f956e,Fix docker hub link (#617),['593aafcab681777dd8d106cfeb365ffa2a0fd033'],False,"['README.md', 'translations/de/README.md', 'translations/fr/README.md', 'translations/hu/README.md', 'translations/id/README.md', 'translations/it/README.md', 'translations/nl/README.md', 'translations/pt-br/README.md', 'translations/ru/README.md', 'translations/zh/README.md']"
+ae980678c13b4cac23cb3ff55566dcc3ef315d9d,Merge branch 'master' into bee-fix-ausearch,"['ad47e7f574becae9446662c7629767cfb7c09c0a', '85d306d4e619106b2e344dacdb17ddefded8d2f4']",True,[]
+35e3de89d2a4ea0353c28aae8d290022715dc01d,"Merge pull request #619 from Ciphey/bee-fix-ausearch
+
+Added new checker and general cleanup","['85d306d4e619106b2e344dacdb17ddefded8d2f4', '24b8412536e7eb4e648642f1d50e71384c3f551a']",True,[]
+9df16a2586b32c494ec8b78e621441220bd56a4b,Made Cipheys output more friendly and fixed the what bug (#632),['35e3de89d2a4ea0353c28aae8d290022715dc01d'],False,"['ciphey/basemods/Checkers/human.py', 'ciphey/basemods/Checkers/what.py']"
+e4f69bdc0b101125a67ef9dd98f53c94fb8b01d6,Re-adding skeletals fixes,['6e349043cb3aa381af2d8328b09b382fc302c43f'],False,"['ciphey/basemods/Checkers/what.py', 'ciphey/iface/_modules.py']"
+c911fb7aef5a3e80e9e22177312a23bd38734848,"Merge pull request #619 from Ciphey/bee-fix-ausearch
+
+Added new checker and general cleanup","['85d306d4e619106b2e344dacdb17ddefded8d2f4', '24b8412536e7eb4e648642f1d50e71384c3f551a']",True,[]
+d9f7762bd92c1c29ffdb87d12e97b6d05da6981d,Clean up and fix printing bug,['42193d614940b1212585a2c99c8adc75fbed03c1'],False,['ciphey/iface/_modules.py']
+2db6bba9ad23add7fdaa39fc6e7b42b3a2050bfb,Fix printing bug,['d9f7762bd92c1c29ffdb87d12e97b6d05da6981d'],False,['ciphey/basemods/Checkers/human.py']
+d6258cd7fbaa957c162c7f14a02d9a77293a48df,"Fix typo in mathsHelper.py (#644)
+
+doesnt -> doesn't",['de1e93248653922bee61b28324cf71bd5ad984fb'],False,['ciphey/mathsHelper.py']
+0bbab52fe37c2a07ad87e83d81162da543ffd486,"Add click tests & fix greppable bug with `pywhat` (#654)
+
+* Greppable mode no longer triggers whats printing
+
+* Testing CLI using click",['ffb2cbb323b66bcf0c1e43689286f6f22dbcb576'],False,"['ciphey/basemods/Checkers/what.py', 'tests/test_click.py']"
+7c312dc348f53caab31afcaff0116a1560f077f5,Fixing skeletals PR feedback,['838f841ca635f509cff793004e5ab1957063fe12'],False,"['ciphey/__main__.py', 'tests/test_click_printing.py']"
+c80277939a74a1bce3dd03a9aa74d277a500d36c,"Added linking & description to Cipheys pywhat (#645)
+
+* Added linking & description to Cipheys pywhat
+
+* Descriptions only appear if the regex has it. We only have 2 regex with descriptions.
+* Descriptions with links are embedded as hyperlinks, this doesn't work on CMD but tbh microsoft is slowly moving to Windows Terminal and who really cares if the link works.
+* Descriptions are ""naturalised"" so they have a lowercase first letter and end with a full stop.
+* Regex with URLs are shown too, they use both Rich hyperlinking and just printing the URL.
+These regex are rare. The idea is that if someone comes across lat / long coords, their next stop is Google Maps. We can take them directly there, eliminating the middleman and improving user experience.
+
+Unforunately due to iface I can only show links at the checkers returned level, not near the plaintext :-(
+
+* adding tests",['0bbab52fe37c2a07ad87e83d81162da543ffd486'],False,"['ciphey/basemods/Checkers/what.py', 'pyproject.toml']"
+406936378587437102ab7f4c29f892cba4c177c1,fix ci,['6053eac795f922ae8822f308677476762b34e6b9'],False,"['tests/dict.py', 'tests/integration.py']"
+2884e8a43ca12d1502b4542968e8d2b407cba9f2,fixing skeletals comments,['9c0a34f388cd18ccf0c09fe034099a284d5c186e'],False,['ciphey/basemods/Searchers/ausearch.py']
+590367cd4df2d7ae729bf19ac42c595d16521b26,:Testing fails,['7a54c7d75adf8519a2a8c95e8807be2da5960c74'],False,"['tests/test_advanced_ciphers.py', 'tests/test_click.py', 'tests/test_click_printing.py', 'tests/test_main.py', 'tests/test_quick.py']"
+e810d4a9770782ed2aac9d30b196a506d2c8f514,Fixing tests,['7830d575f1b8e55ee44c12bdb2a4831d55ae21c9'],False,['ciphey/basemods/Checkers/what.py']
+d12fdbbef985ab36fc81360b537dbe4ea70cff4f,Fixed AuSearch,['8b52e14293aeadff1e79859d364a96b52019e1fb'],False,['ciphey/basemods/Searchers/ausearch.py']
+9fb477f26495bdda31812b2c7e5a15b360b39320,Fix logging,['4987e079d49f0ac1e782c520632bf14ea0975024'],False,['ciphey/basemods/Checkers/quadgrams.py']
+39a83232c716a306c0404425cdbe5edc226bec81,Fix and clean up tests,['e8686c1c44fd29ec53a658672c823285ac40658b'],False,['tests/test_main.py']
+de42d7d1b9e8e70e9dafc768bba0f04e28728b1f,Fix typos discovered by codespell,['b97220cb9d078bbfeea58cdb7937d9cfdbd72e28'],False,"['.github/workflows/tests2.yml', 'ciphey/basemods/Searchers/atar.md', 'ciphey/basemods/Searchers/imperfection.py', 'ciphey/ciphey.py']"
+6f325073674e899b81340a9890ab9234146277be,"Merge pull request #685 from cclauss/codespell
+
+Fix typos discovered by codespell","['b97220cb9d078bbfeea58cdb7937d9cfdbd72e28', '63245de3840a3cf422cfedfb58730e35246439ac']",True,[]
+76b6897d74666ddd90691d8dbd26c913db9927b6,Fix table printing,['798ac461d87b98344ff965e8078667e466e3c784'],False,['ciphey/iface/_modules.py']
+d5cb126c42f95e3e71953f138121f86e4a97b2c4,Fix CI checks,['76b6897d74666ddd90691d8dbd26c913db9927b6'],False,['.github/workflows/tests2.yml']
+d7ee247beb24ef2e424382ca27f3cf53627d156d,Fix terminal tests,['d5cb126c42f95e3e71953f138121f86e4a97b2c4'],False,['.github/workflows/terminaltest.yml']
+ae97667e0b5c0783372d5547571f011946af50d0,Fix release pypi test,['d7ee247beb24ef2e424382ca27f3cf53627d156d'],False,['.github/workflows/releasetestpypi.yml']
+2ee210a8ca3f9747ff106654761181d57faf3e47,Fix release CI test,['ae97667e0b5c0783372d5547571f011946af50d0'],False,['.github/workflows/release.yml']
+58323db4443b0d29d7797dadab88955a02da8812,"Merge pull request #694 from Ciphey/skeletal-fix-printing
+
+Fix table printing","['798ac461d87b98344ff965e8078667e466e3c784', '2ee210a8ca3f9747ff106654761181d57faf3e47']",True,[]
+2315cfa4396ffccb72042e6e4950818f60466e3c,Fixed the build backend to the right one.,['aa94cf5b11e21106012a94706fb46bed72f7ef99'],False,['pyproject.toml']
+aec8a74e07ba8d71ecd37553b7735353625ae169,"Merge pull request #744 from KOLANICH-tools/poetry_core
+
+Fixed the build backend to the right one.","['aa94cf5b11e21106012a94706fb46bed72f7ef99', '2315cfa4396ffccb72042e6e4950818f60466e3c']",True,[]
+a19ecd17c7e9907f98b1cb494a82cabdb99d027a,:pencil: (readme) fix head,['dfc47e456cf15a212f039ef36406e04608dab6b9'],False,['translations/th/README.md']
+f5dc0207408022fedccef1116d7640f70bcd8a41,":bug: fix ALL-CONTRIBUTORS-LIST ""Do not remove or modify this section""",['a19ecd17c7e9907f98b1cb494a82cabdb99d027a'],False,"['README.md', 'translations/th/README.md']"

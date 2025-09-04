@@ -1,0 +1,8 @@
+@@ -41,4 +41,4 @@ class mathsHelper:
+         return a.count(a[0]) == len(a)
+     def stripPuncuation(self, text):
+         """Strips punctuation from a given string"""
+-        return text.translate(None, punctuation)
+\ No newline at end of file
++        return text.translate(str.maketrans('','',punctuation))
+\ No newline at end of file

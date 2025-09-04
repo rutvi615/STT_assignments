@@ -1,0 +1,17 @@
+@@ -24,6 +24,9 @@ ENV/
+ env.bak/
+ venv.bak/
+ pip-selfcheck.json
++ciphey.egg-info
++dist/
++dist
+ 
+ # End of https://www.gitignore.io/api/venv
+ 
+@@ -188,4 +191,4 @@ poetry.lock
+ *.swp
+ 
+ # PyCharm
+-.idea/
+\ No newline at end of file
++.idea/

@@ -1,0 +1,11 @@
+@@ -1,9 +0,0 @@
+-include /app/neuralNetworkMod/*
+-include /app/neuralNetworkMod/NeuralNetworkModel.model
+-include /app/languageCheckerMod/*
+-include README.MD
+-include /app/neuralNetworkMod/*
+-include /app/neuralNetworkMod/NeuralNetworkModel.model
+-NeuralNetworkModel.model
+-English.txt
+-recursive-include *
+\ No newline at end of file

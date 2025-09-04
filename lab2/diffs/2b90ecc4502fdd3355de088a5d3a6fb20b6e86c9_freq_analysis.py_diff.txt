@@ -1,0 +1,7 @@
+@@ -6,4 +6,4 @@ data = sys.stdin.read()
+ 
+ analysis = cipheycore.analyse_string(data)
+ 
+-print(json.dumps({i: j / len(data) for i, j in analysis.freqs.items()}))
+\ No newline at end of file
++print(json.dumps({i: j / len(data) for i, j in analysis.freqs.items()}))

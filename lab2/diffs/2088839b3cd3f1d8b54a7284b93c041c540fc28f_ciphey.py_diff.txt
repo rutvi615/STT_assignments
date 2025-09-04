@@ -1,0 +1,29 @@
+@@ -19,12 +19,13 @@ import click
+ from appdirs import AppDirs
+ from loguru import logger
+ from rich.console import Console
+-console = Console()
+ 
+ from . import iface
+ 
+ warnings.filterwarnings("ignore")
+ 
++console = Console()
++
+ 
+ def decrypt(config: iface.Config, ctext: Any) -> Union[str, bytes]:
+     """A simple alias for searching a ctext and makes the answer pretty"""
+@@ -257,10 +258,10 @@ def main(**kwargs):
+         result = decrypt(config, kwargs["text"])
+     else:
+         # else, run with spinner if verbosity is 0
+-        with console.status("[bold green]Thinking...", spinner='moon') as status:
++        with console.status("[bold green]Thinking...", spinner="moon") as status:
+             config.set_spinner(status)
+             result = decrypt(config, kwargs["text"])
+     if result is None:
+         result = "Could not find any solutions."
+ 
+-    console.print(result)
+\ No newline at end of file
++    console.print(result)

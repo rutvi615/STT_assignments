@@ -1,0 +1,23 @@
+@@ -1,7 +1,4 @@
+ <p align="center">
+-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+   <img src="Pictures_for_README/binoculars.png" alt="Ciphey">
+ </p>
+ 
+@@ -13,6 +10,7 @@
+   <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/ciphey">
+ <img src="https://codecov.io/gh/ciphey/ciphey/branch/master/graph/badge.svg">
+ <a href="https://ciphey.readthedocs.io/"><img src="https://readthedocs.org/projects/ciphey/badge/"></a>
++<img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square">
+ </p>
+ 
+ # What is this?
+@@ -97,4 +95,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
+ <!-- prettier-ignore-end -->
+ <!-- ALL-CONTRIBUTORS-LIST:END -->
+ 
+-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+\ No newline at end of file
++This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

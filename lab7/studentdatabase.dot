@@ -1,0 +1,45 @@
+// Control Flow Graph for student_database.c
+digraph StudentDatabaseCFG {
+    // Graph and node attributes
+    graph [fontname = "Helvetica"];
+    node [shape=box, style=rounded, fontname = "Helvetica"];
+    edge [fontname = "Helvetica"];
+
+    // Basic Blocks (Nodes)
+    B0 [label="B0 (Entry)\nint choice = 0;\nint running = 1;\nprintf(\"--- Student ... ---\");"];
+    B1 [label="B1 (Loop Head)\nwhile (running)"];
+    B2 [label="B2 (Loop Body)\nprintMenu();\nscanf(\"%d\", &choice);\nwhile(getchar() != '\\n');\nswitch (choice)"];
+    B3 [label="B3 (Case 1)\naddStudent();"];
+    B4 [label="B4 (Case 2)\ndisplayAllStudents();"];
+    B5 [label="B5 (Case 3)\nfindStudentByRollNumber();"];
+    B6 [label="B6 (Case 4)\ndeleteStudent();"];
+    B7 [label="B7 (Case 5)\nupdateStudent();"];
+    B8 [label="B8 (Case 6)\nprintf(\"Exiting...\");\nrunning = 0;"];
+    B9 [label="B9 (Default)\nprintf(\"Invalid choice...\");"];
+    B10 [label="B10 (Merge)\nprintf(\"\\n\");"];
+    B11 [label="B11 (Exit)\nreturn 0;"];
+
+    // Control Flow (Edges)
+    B0 -> B1 [label="seq"];
+
+    B1 -> B2 [label="true"];
+    B1 -> B11 [label="false"];
+
+    B2 -> B3 [label="case 1"];
+    B2 -> B4 [label="case 2"];
+    B2 -> B5 [label="case 3"];
+    B2 -> B6 [label="case 4"];
+    B2 -> B7 [label="case 5"];
+    B2 -> B8 [label="case 6"];
+    B2 -> B9 [label="default"];
+
+    B3 -> B10 [label="break"];
+    B4 -> B10 [label="break"];
+    B5 -> B10 [label="break"];
+    B6 -> B10 [label="break"];
+    B7 -> B10 [label="break"];
+    B8 -> B10 [label="break"];
+    B9 -> B10 [label="break"];
+
+    B10 -> B1 [label="back edge"];
+}

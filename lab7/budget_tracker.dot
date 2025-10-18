@@ -1,0 +1,57 @@
+// Control Flow Graph for budget_tracker.c
+digraph BudgetTrackerCFG {
+    // Graph and node attributes
+    graph [fontname = "Helvetica", fontsize = 12];
+    node [shape=box, style=rounded, fontname = "Helvetica", fontsize = 10];
+    edge [fontname = "Helvetica", fontsize = 9];
+
+    // Basic Blocks (Nodes) in the main function
+    B0 [label="B0 (Entry)\nint choice = 0;\nint running = 1;\nprintf(\"--- Personal Budget Tracker ---\");"];
+    B1 [label="B1 (Loop Head)\nwhile (running)"];
+    B2 [label="B2\nprintMenu();\nprintf(\"Enter your choice: \");"];
+    B3 [label="B3 (Input Check)\nif (scanf(\"%d\", &choice) != 1)"];
+    B4 [label="B4 (Invalid Input)\nprintf(\"Error: Invalid input...\");\nclearInputBuffer();"];
+    B5 [label="B5\nclearInputBuffer();\nswitch (choice)"];
+    B6 [label="B6 (Case 1)\naddTransaction('I');"];
+    B7 [label="B7 (Case 2)\naddTransaction('E');"];
+    B8 [label="B8 (Case 3)\nviewSummary();"];
+    B9 [label="B9 (Case 4)\nviewAllTransactions();"];
+    B10 [label="B10 (Case 5)\nprintf(\"Exiting...\");\nrunning = 0;"];
+    B11 [label="B11 (Default)\nprintf(\"Error: Invalid choice...\");"];
+    B12 [label="B12 (Merge Point)\nprintf(\"\\n\");"];
+    B13 [label="B13 (Exit)\nreturn 0;"];
+
+    // Control Flow (Edges)
+    
+    // Entry into the main loop
+    B0 -> B1 [label="seq"];
+
+    // Loop condition
+    B1 -> B2 [label="true"];
+    B1 -> B13 [label="false (exit loop)"];
+
+    // Input validation path
+    B2 -> B3 [label="seq"];
+    B3 -> B4 [label="true (input is not a number)"];
+    B3 -> B5 [label="false (input is a number)"];
+    B4 -> B1 [label="continue loop"]; // Skips the switch and goes to next iteration
+
+    // Main switch logic
+    B5 -> B6 [label="case 1"];
+    B5 -> B7 [label="case 2"];
+    B5 -> B8 [label="case 3"];
+    B5 -> B9 [label="case 4"];
+    B5 -> B10 [label="case 5"];
+    B5 -> B11 [label="default"];
+
+    // Paths from switch cases to the merge point
+    B6 -> B12 [label="break"];
+    B7 -> B12 [label="break"];
+    B8 -> B12 [label="break"];
+    B9 -> B12 [label="break"];
+    B10 -> B12 [label="break"];
+    B11 -> B12 [label="break"];
+
+    // Path from the merge point back to the loop head
+    B12 -> B1 [label="back edge"];
+}

@@ -1,0 +1,51 @@
+// Control Flow Graph for console_snake.c
+digraph ConsoleSnakeCFG {
+    // Graph and node attributes
+    graph [fontname = "Helvetica"];
+    node [shape=box, style=rounded, fontname = "Helvetica"];
+    edge [fontname = "Helvetica"];
+
+    // Basic Blocks (Nodes)
+    B0 [label="B0 (Setup)\nsetup();"];
+    B1 [label="B1 (Game Loop Head)\nwhile (!gameOver)"];
+    B2 [label="B2 (Draw & Input)\ndraw();\ninput();"];
+    B3 [label="B3 (Update Tail & Head)\n// Tail update logic...\nswitch (dir) { ... }"];
+    B4 [label="B4 (Wall Collision Check)\nif (x >= WIDTH || x < 0 || ...)"];
+    B5 [label="B5 (Set GameOver - Wall)\ngameOver = 1;"];
+    B6 [label="B6 (Tail Collision Loop Head)\nfor (i = 0; i < tailLength; i++)"];
+    B7 [label="B7 (Tail Collision Check)\nif (tailX[i] == x && tailY[i] == y)"];
+    B8 [label="B8 (Set GameOver - Tail)\ngameOver = 1;"];
+    B9 [label="B9 (Fruit Collision Check)\nif (x == fruitX && y == fruitY)"];
+    B10 [label="B10 (Process Fruit)\nscore += 10;\ntailLength++;\n// new fruit position..."];
+    B11 [label="B11 (End of Loop Body)\nSleep(100);"];
+    B12 [label="B12 (Game Over Exit)\nprintf(\"--- GAME OVER ---\");\nreturn 0;"];
+
+    // Control Flow (Edges)
+    B0 -> B1 [label="seq"];
+
+    B1 -> B2 [label="true"];
+    B1 -> B12 [label="false"];
+
+    B2 -> B3 [label="seq"];
+    B3 -> B4 [label="seq"];
+
+    B4 -> B5 [label="true"];
+    B4 -> B6 [label="false"];
+
+    B5 -> B6 [label="seq"];
+
+    B6 -> B7 [label="loop body"];
+    B6 -> B9 [label="loop exit"];
+
+    B7 -> B8 [label="true"];
+    B7 -> B6 [label="false (continue loop)"];
+
+    B8 -> B9 [label="seq"];
+
+    B9 -> B10 [label="true"];
+    B9 -> B11 [label="false"];
+
+    B10 -> B11 [label="seq"];
+
+    B11 -> B1 [label="back edge"];
+}

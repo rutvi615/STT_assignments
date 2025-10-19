@@ -1,0 +1,300 @@
+{
+  "iou_matrix": [
+    [
+      1.0,
+      0.07142857142857142,
+      0.08695652173913043
+    ],
+    [
+      0.07142857142857142,
+      1.0,
+      0.07692307692307693
+    ],
+    [
+      0.08695652173913043,
+      0.07692307692307693,
+      1.0
+    ]
+  ],
+  "tools": [
+    "bandit",
+    "codeql",
+    "semgrep"
+  ],
+  "pairwise_details": {
+    "bandit-codeql": {
+      "tool1": "bandit",
+      "tool2": "codeql",
+      "tool1_cwes": 13,
+      "tool2_cwes": 2,
+      "intersection": [
+        "CWE-22"
+      ],
+      "intersection_count": 1,
+      "union_count": 14,
+      "iou": 0.07142857142857142,
+      "tool1_unique": [
+        "CWE-89",
+        "CWE-502",
+        "CWE-20",
+        "CWE-327",
+        "CWE-78",
+        "CWE-259",
+        "CWE-400",
+        "CWE-703",
+        "CWE-330",
+        "CWE-605",
+        "CWE-377",
+        "CWE-732"
+      ],
+      "tool2_unique": [
+        "CWE-532"
+      ],
+      "tool1_unique_count": 12,
+      "tool2_unique_count": 1
+    },
+    "bandit-semgrep": {
+      "tool1": "bandit",
+      "tool2": "semgrep",
+      "tool1_cwes": 13,
+      "tool2_cwes": 12,
+      "intersection": [
+        "CWE-502",
+        "CWE-22"
+      ],
+      "intersection_count": 2,
+      "union_count": 23,
+      "iou": 0.08695652173913043,
+      "tool1_unique": [
+        "CWE-89",
+        "CWE-20",
+        "CWE-259",
+        "CWE-327",
+        "CWE-78",
+        "CWE-400",
+        "CWE-703",
+        "CWE-330",
+        "CWE-605",
+        "CWE-377",
+        "CWE-732"
+      ],
+      "tool2_unique": [
+        "CWE-706",
+        "CWE-319",
+        "CWE-321",
+        "CWE-79",
+        "CWE-134",
+        "CWE-939",
+        "CWE-353",
+        "CWE-942",
+        "CWE-352",
+        "CWE-250"
+      ],
+      "tool1_unique_count": 11,
+      "tool2_unique_count": 10
+    },
+    "codeql-bandit": {
+      "tool1": "codeql",
+      "tool2": "bandit",
+      "tool1_cwes": 2,
+      "tool2_cwes": 13,
+      "intersection": [
+        "CWE-22"
+      ],
+      "intersection_count": 1,
+      "union_count": 14,
+      "iou": 0.07142857142857142,
+      "tool1_unique": [
+        "CWE-532"
+      ],
+      "tool2_unique": [
+        "CWE-89",
+        "CWE-502",
+        "CWE-20",
+        "CWE-327",
+        "CWE-78",
+        "CWE-259",
+        "CWE-400",
+        "CWE-703",
+        "CWE-330",
+        "CWE-605",
+        "CWE-377",
+        "CWE-732"
+      ],
+      "tool1_unique_count": 1,
+      "tool2_unique_count": 12
+    },
+    "codeql-semgrep": {
+      "tool1": "codeql",
+      "tool2": "semgrep",
+      "tool1_cwes": 2,
+      "tool2_cwes": 12,
+      "intersection": [
+        "CWE-22"
+      ],
+      "intersection_count": 1,
+      "union_count": 13,
+      "iou": 0.07692307692307693,
+      "tool1_unique": [
+        "CWE-532"
+      ],
+      "tool2_unique": [
+        "CWE-502",
+        "CWE-706",
+        "CWE-319",
+        "CWE-321",
+        "CWE-79",
+        "CWE-134",
+        "CWE-939",
+        "CWE-353",
+        "CWE-942",
+        "CWE-352",
+        "CWE-250"
+      ],
+      "tool1_unique_count": 1,
+      "tool2_unique_count": 11
+    },
+    "semgrep-bandit": {
+      "tool1": "semgrep",
+      "tool2": "bandit",
+      "tool1_cwes": 12,
+      "tool2_cwes": 13,
+      "intersection": [
+        "CWE-502",
+        "CWE-22"
+      ],
+      "intersection_count": 2,
+      "union_count": 23,
+      "iou": 0.08695652173913043,
+      "tool1_unique": [
+        "CWE-706",
+        "CWE-319",
+        "CWE-321",
+        "CWE-79",
+        "CWE-134",
+        "CWE-939",
+        "CWE-353",
+        "CWE-942",
+        "CWE-352",
+        "CWE-250"
+      ],
+      "tool2_unique": [
+        "CWE-89",
+        "CWE-20",
+        "CWE-259",
+        "CWE-327",
+        "CWE-78",
+        "CWE-400",
+        "CWE-703",
+        "CWE-330",
+        "CWE-605",
+        "CWE-377",
+        "CWE-732"
+      ],
+      "tool1_unique_count": 10,
+      "tool2_unique_count": 11
+    },
+    "semgrep-codeql": {
+      "tool1": "semgrep",
+      "tool2": "codeql",
+      "tool1_cwes": 12,
+      "tool2_cwes": 2,
+      "intersection": [
+        "CWE-22"
+      ],
+      "intersection_count": 1,
+      "union_count": 13,
+      "iou": 0.07692307692307693,
+      "tool1_unique": [
+        "CWE-502",
+        "CWE-706",
+        "CWE-319",
+        "CWE-321",
+        "CWE-79",
+        "CWE-134",
+        "CWE-939",
+        "CWE-353",
+        "CWE-942",
+        "CWE-352",
+        "CWE-250"
+      ],
+      "tool2_unique": [
+        "CWE-532"
+      ],
+      "tool1_unique_count": 11,
+      "tool2_unique_count": 1
+    }
+  },
+  "combination_analysis": {
+    "bandit": {
+      "tools": [
+        "bandit"
+      ],
+      "cwes_covered": 13,
+      "coverage_percent": 54.166666666666664,
+      "unique_contribution": 13
+    },
+    "codeql": {
+      "tools": [
+        "codeql"
+      ],
+      "cwes_covered": 2,
+      "coverage_percent": 8.333333333333332,
+      "unique_contribution": 2
+    },
+    "semgrep": {
+      "tools": [
+        "semgrep"
+      ],
+      "cwes_covered": 12,
+      "coverage_percent": 50.0,
+      "unique_contribution": 12
+    },
+    "bandit+codeql": {
+      "tools": [
+        "bandit",
+        "codeql"
+      ],
+      "cwes_covered": 14,
+      "coverage_percent": 58.333333333333336,
+      "unique_contribution": 1,
+      "synergy": 0
+    },
+    "bandit+semgrep": {
+      "tools": [
+        "bandit",
+        "semgrep"
+      ],
+      "cwes_covered": 23,
+      "coverage_percent": 95.83333333333334,
+      "unique_contribution": 10,
+      "synergy": 0
+    },
+    "codeql+semgrep": {
+      "tools": [
+        "codeql",
+        "semgrep"
+      ],
+      "cwes_covered": 13,
+      "coverage_percent": 54.166666666666664,
+      "unique_contribution": 11,
+      "synergy": 0
+    },
+    "All_Tools": {
+      "tools": [
+        "bandit",
+        "codeql",
+        "semgrep"
+      ],
+      "cwes_covered": 24,
+      "coverage_percent": 100.0,
+      "unique_contribution": 0
+    }
+  },
+  "summary_statistics": {
+    "average_iou": 0.07843605669692626,
+    "max_iou": 0.08695652173913043,
+    "min_iou": 0.07142857142857142,
+    "total_unique_cwes": 24
+  }
+}

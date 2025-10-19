@@ -1,0 +1,4 @@
+Tool,Total_Unique_CWEs,Top25_CWEs_Detected,Top25_Coverage_Percent,Total_Findings,Top25_Findings,Top25_Findings_Percent,Top25_CWEs_List
+bandit,13,7,28.0,2349,49,2.09,"CWE-20, CWE-22, CWE-327, CWE-502, CWE-732, CWE-78, CWE-89"
+codeql,2,1,4.0,11,9,81.82,CWE-22
+semgrep,12,4,16.0,25,11,44.0,"CWE-22, CWE-352, CWE-502, CWE-79"

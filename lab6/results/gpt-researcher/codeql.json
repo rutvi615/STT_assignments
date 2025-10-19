@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/gpt_researcher/retrievers/bing/bing.py",
+      "line": "86",
+      "column": "16",
+      "message": "The string [[\"youtube.com\"|\"relative:///gpt_researcher/retrievers/bing/bing.py:86:16:86:28\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/gpt_researcher/retrievers/google/google.py",
+      "line": "88",
+      "column": "16",
+      "message": "The string [[\"youtube.com\"|\"relative:///gpt_researcher/retrievers/google/google.py:88:16:88:28\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/tests/report-types.py",
+      "line": "41",
+      "column": "51",
+      "message": "The string [[\"https://github.com\"|\"relative:///tests/report-types.py:41:66:41:85\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/gpt_researcher/scraper/scraper.py",
+      "line": "185",
+      "column": "14",
+      "message": "The string [[\"arxiv.org\"|\"relative:///gpt_researcher/scraper/scraper.py:185:14:185:24\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/gpt_researcher/retrievers/searchapi/searchapi.py",
+      "line": "69",
+      "column": "28",
+      "message": "The string [[\"youtube.com\"|\"relative:///gpt_researcher/retrievers/searchapi/searchapi.py:69:28:69:40\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Incomplete URL substring sanitization",
+      "file": "/gpt_researcher/retrievers/serpapi/serpapi.py",
+      "line": "67",
+      "column": "28",
+      "message": "The string [[\"youtube.com\"|\"relative:///gpt_researcher/retrievers/serpapi/serpapi.py:67:28:67:40\"]] may be at an arbitrary position in the sanitized URL.",
+      "cwe_id": ""
+    },
+    {
+      "query": "Overly permissive regular expression range",
+      "file": "/gpt_researcher/skills/deep_research.py",
+      "line": "169",
+      "column": "57",
+      "message": "Suspicious character range that is equivalent to [$%&'()*+,\\-.\\/0-9:;<=>?@A-Z\\[\\\\\\]^_].",
+      "cwe_id": ""
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/multi_agents/agents/orchestrator.py",
+      "line": "40",
+      "column": "21",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:163:27:163:42\"]].\nThis path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:200:30:200:38\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server.py",
+      "line": "119",
+      "column": "27",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:117:41:117:51\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server.py",
+      "line": "121",
+      "column": "25",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:117:41:117:51\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server_utils.py",
+      "line": "31",
+      "column": "19",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:163:27:163:42\"]].\nThis path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:200:30:200:38\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server_utils.py",
+      "line": "51",
+      "column": "19",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:163:27:163:42\"]].\nThis path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:200:30:200:38\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server_utils.py",
+      "line": "66",
+      "column": "19",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:163:27:163:42\"]].\nThis path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:200:30:200:38\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server_utils.py",
+      "line": "250",
+      "column": "23",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:195:23:195:30\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/server/server_utils.py",
+      "line": "251",
+      "column": "19",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:195:23:195:30\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Uncontrolled data used in path expression",
+      "file": "/backend/utils.py",
+      "line": "19",
+      "column": "30",
+      "message": "This path depends on a [[\"user-provided value\"|\"relative:///backend/server/server.py:200:30:200:38\"]].",
+      "cwe_id": "CWE-22"
+    },
+    {
+      "query": "Clear-text logging of sensitive information",
+      "file": "/tests/test_mcp.py",
+      "line": "83",
+      "column": "19",
+      "message": "This expression logs [[\"sensitive data (password)\"|\"relative:///tests/test_mcp.py:36:18:36:49\"]] as clear text.\nThis expression logs [[\"sensitive data (password)\"|\"relative:///tests/test_mcp.py:37:18:37:49\"]] as clear text.",
+      "cwe_id": "CWE-532"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"Clear-text logging of sensitive information","Logging sensitive information without encryption or hashing can expose it to an attacker.","error","This expression logs [[""sensitive data (password)""|""relative:///docs/source/samples/todo-app/code/create-resources.py:10:23:10:49""]] as clear text.","/docs/source/samples/todo-app/code/create-resources.py","119","15","119","58"

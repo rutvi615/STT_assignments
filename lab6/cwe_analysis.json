@@ -1,0 +1,85 @@
+{
+  "summary": {
+    "total_tools": 3,
+    "total_unique_cwes": 24,
+    "top25_cwes_found": 9,
+    "analysis_date": "2025-10-14T11:06:16.126880"
+  },
+  "tool_coverage": {
+    "bandit": {
+      "unique_cwes": [
+        "CWE-502",
+        "CWE-78",
+        "CWE-327",
+        "CWE-89",
+        "CWE-377",
+        "CWE-703",
+        "CWE-400",
+        "CWE-20",
+        "CWE-605",
+        "CWE-732",
+        "CWE-330",
+        "CWE-22",
+        "CWE-259"
+      ],
+      "top25_cwes": [
+        "CWE-22",
+        "CWE-502",
+        "CWE-78",
+        "CWE-327",
+        "CWE-89",
+        "CWE-732",
+        "CWE-20"
+      ],
+      "total_cwe_count": 13,
+      "top25_detected_count": 7,
+      "top25_coverage_percent": 28.000000000000004,
+      "total_findings": "2349",
+      "top25_findings": "49",
+      "top25_findings_percent": 2.0859940400170287
+    },
+    "codeql": {
+      "unique_cwes": [
+        "CWE-22",
+        "CWE-532"
+      ],
+      "top25_cwes": [
+        "CWE-22"
+      ],
+      "total_cwe_count": 2,
+      "top25_detected_count": 1,
+      "top25_coverage_percent": 4.0,
+      "total_findings": "11",
+      "top25_findings": "9",
+      "top25_findings_percent": 81.81818181818183
+    },
+    "semgrep": {
+      "unique_cwes": [
+        "CWE-22",
+        "CWE-502",
+        "CWE-353",
+        "CWE-939",
+        "CWE-352",
+        "CWE-250",
+        "CWE-706",
+        "CWE-79",
+        "CWE-319",
+        "CWE-321",
+        "CWE-942",
+        "CWE-134"
+      ],
+      "top25_cwes": [
+        "CWE-79",
+        "CWE-502",
+        "CWE-22",
+        "CWE-352"
+      ],
+      "total_cwe_count": 12,
+      "top25_detected_count": 4,
+      "top25_coverage_percent": 16.0,
+      "total_findings": "25",
+      "top25_findings": "11",
+      "top25_findings_percent": 44.0
+    }
+  }
+}

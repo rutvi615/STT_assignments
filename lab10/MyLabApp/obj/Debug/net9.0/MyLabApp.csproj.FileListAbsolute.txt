@@ -1,0 +1,14 @@
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/bin/Debug/net9.0/MyLabApp
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/bin/Debug/net9.0/MyLabApp.deps.json
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/bin/Debug/net9.0/MyLabApp.runtimeconfig.json
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/bin/Debug/net9.0/MyLabApp.dll
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/bin/Debug/net9.0/MyLabApp.pdb
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.AssemblyInfoInputs.cache
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.AssemblyInfo.cs
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.csproj.CoreCompileInputs.cache
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.dll
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/refint/MyLabApp.dll
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.pdb
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/MyLabApp.genruntimeconfig.cache
+/Users/Rutvi/Desktop/stt_lab10/MyLabApp/obj/Debug/net9.0/ref/MyLabApp.dll

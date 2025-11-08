@@ -1,0 +1,15 @@
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\bin\Debug\net8.0\Activity1_HelloWorld.exe
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\bin\Debug\net8.0\Activity1_HelloWorld.deps.json
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\bin\Debug\net8.0\Activity1_HelloWorld.runtimeconfig.json
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\bin\Debug\net8.0\Activity1_HelloWorld.dll
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\bin\Debug\net8.0\Activity1_HelloWorld.pdb
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.AssemblyInfoInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.AssemblyInfo.cs
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.sourcelink.json
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.dll
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\refint\Activity1_HelloWorld.dll
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.pdb
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\Activity1_HelloWorld.genruntimeconfig.cache
+D:\Study\Sem 7\STT\Lab9\Activity1_HelloWorld\obj\Debug\net8.0\ref\Activity1_HelloWorld.dll

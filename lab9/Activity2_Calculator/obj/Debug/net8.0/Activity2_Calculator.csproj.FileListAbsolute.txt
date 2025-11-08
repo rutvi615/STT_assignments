@@ -1,0 +1,15 @@
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\bin\Debug\net8.0\Activity2_Calculator.exe
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\bin\Debug\net8.0\Activity2_Calculator.deps.json
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\bin\Debug\net8.0\Activity2_Calculator.runtimeconfig.json
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\bin\Debug\net8.0\Activity2_Calculator.dll
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\bin\Debug\net8.0\Activity2_Calculator.pdb
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.AssemblyInfoInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.AssemblyInfo.cs
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.csproj.CoreCompileInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.sourcelink.json
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.dll
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\refint\Activity2_Calculator.dll
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.pdb
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\Activity2_Calculator.genruntimeconfig.cache
+D:\Study\Sem 7\STT\Lab9\Activity2_Calculator\obj\Debug\net8.0\ref\Activity2_Calculator.dll

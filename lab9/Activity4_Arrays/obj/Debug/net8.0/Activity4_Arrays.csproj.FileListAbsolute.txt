@@ -1,0 +1,15 @@
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\bin\Debug\net8.0\Activity4_Arrays.exe
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\bin\Debug\net8.0\Activity4_Arrays.deps.json
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\bin\Debug\net8.0\Activity4_Arrays.runtimeconfig.json
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\bin\Debug\net8.0\Activity4_Arrays.dll
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\bin\Debug\net8.0\Activity4_Arrays.pdb
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.AssemblyInfoInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.AssemblyInfo.cs
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.csproj.CoreCompileInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.sourcelink.json
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.dll
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\refint\Activity4_Arrays.dll
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.pdb
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\Activity4_Arrays.genruntimeconfig.cache
+D:\Study\Sem 7\STT\Lab9\Activity4_Arrays\obj\Debug\net8.0\ref\Activity4_Arrays.dll

@@ -1,0 +1,15 @@
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\bin\Debug\net8.0\Activity3_LoopsAndFunctions.exe
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\bin\Debug\net8.0\Activity3_LoopsAndFunctions.deps.json
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\bin\Debug\net8.0\Activity3_LoopsAndFunctions.runtimeconfig.json
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\bin\Debug\net8.0\Activity3_LoopsAndFunctions.dll
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\bin\Debug\net8.0\Activity3_LoopsAndFunctions.pdb
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.AssemblyInfoInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.AssemblyInfo.cs
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.csproj.CoreCompileInputs.cache
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.sourcelink.json
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.dll
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\refint\Activity3_LoopsAndFunctions.dll
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.pdb
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\Activity3_LoopsAndFunctions.genruntimeconfig.cache
+D:\Study\Sem 7\STT\Lab9\Activity3_LoopsAndFunctions\obj\Debug\net8.0\ref\Activity3_LoopsAndFunctions.dll

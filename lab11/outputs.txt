@@ -1,0 +1,22 @@
+level 0:
+p1:
+MS:-1%      
+
+P2
+I5 D4 F4%  
+
+level 1:
+p1:
+>1>2[M2]>3[L3](Reset)>4[M4]{Alert}>5>6[M6][L6](Reset)% 
+
+p2:
+Temperature changed from 30°C to 46°C
+ Warning: Sudden change detected!
+Temperature changed from 46°C to 52°C
+
+level 2:
+p1:
+[Start]{Ping}(Nested)[Start]{Pong}(Nested)[End][End]%  
+
+p2:
+[Check]{High}[Check][Done](Alert)[Done]% 
